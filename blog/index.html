@@ -1,0 +1,22 @@
+---
+layout: default
+title: jedahan's blog
+---
+<h1>Blagging!</h1>
+
+<div id="posts">
+  {% for post in site.posts %}
+    <div class="post">
+      <h3>
+        <a href="{{ post.url }}" alt="{{ post.date | date_to_string }}">{{ post.title }}</a>
+        <em>posted on {{ post.date | date_to_long_string }}</em>
+      </h3>
+    {{ post.content }}
+    <a href="{{ post.url }}" alt="view/add comment" title="view/add comment">comments</a>
+    </div>
+  {% endfor %}
+</div>
+
+<a href="http://feeds.feedburner.com/jedahan">
+  <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
+</a>
