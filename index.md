@@ -5,11 +5,14 @@ title: Home
 
 /whois [jedahan][me]
 --------------------
-- An experimenter with Computational Machinations, Digital Arts and Electronic Music, hailing from [New York][ny] 
+- An experimenter with Computational Machinations, Digital Arts and Electronic Music, hailing from [New York][ny]
 
 Recents Rants
 -------------
-  {% include navigation.html %}
+{% for post in site.posts limit: 7 %}
+- &raquo; [{{post.title}}]({{post.url}})
+{% endfor %}
+- ...[more](/blog)
 
 Creations and Consumptions
 --------------------------

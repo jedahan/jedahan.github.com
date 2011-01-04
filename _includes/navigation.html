@@ -1,6 +1,0 @@
-<ul>
-  {% for post in site.posts limit: 7 %}
-     <li>&raquo; <a href="{{ post.url }}" alt="{{ post.date | date_to_string }}">{{ post.title }}</a></li>
-  {% endfor %}
-  <li><a href="/blog">...more</a></li>
-</ul>
