@@ -10,6 +10,7 @@ uninstalled my old standbys.
     paludis --uninstall vim; paludis --install diakonos gedit
 
 I am looking for something between nano and vim with the suckless philosophy
+
   * good: consistent keybindings for most of my apps
   *  bad: feel less productive, especially missing 'cw' and 'dw'
   * ugly: missing exheres-syntax.vim
@@ -17,6 +18,7 @@ I am looking for something between nano and vim with the suckless philosophy
     paludis --uninstall firefox; paludis --install chromium-bin
 
 This was a much easier switch.
+
   * good: blazingly fast
   * more good: don't miss any firefox features
   * good,good: greasemonkey scripts, google bookmarks integration
