@@ -6,11 +6,11 @@
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" type=image/x-icon href=favicon.ico />
-    <link rel=stylesheet type=text/css media="screen, projection" charset=utf-8 href=css/screen.css />
-    <link rel=stylesheet type=text/css media="screen, projection" charset=utf-8 href=css/pygments.css />
-    <link rel=alternate type="application/rss+xml" title="RSS" href="atom.xml" />
-    <script src="_include/google_analytics.js"></script>
+    <link rel="shortcut icon" type=image/x-icon href=/favicon.ico />
+    <link rel=stylesheet type=text/css media="screen, projection" charset=utf-8 href=/css/screen.css />
+    <link rel=stylesheet type=text/css media="screen, projection" charset=utf-8 href=/css/pygments.css />
+    <link rel=alternate type="application/rss+xml" title="RSS" href="/atom.xml" />
+    <script src="/_includes/google_analytics.js"></script>
   </head>
   <body>
     <div id=wrap class=container_12>
@@ -24,13 +24,12 @@
       <div class="clear"></div>
       <footer>
         <div class="grid_4 alpha">
-          {% if site.email %}{{site.email}} {% endif %}
         </div>
         <div class="grid_4">
           <a href="http://twitter.com/jedahan">@jedahan</a>
         </div>
         <div class="grid_4 omega">
-          <a href="{{site.url}}/atom.xml" class="noul"><img src="images/rss.png" alt="RSS Feed" /></a>
+          {{site.email}} 
         </div>
       </footer>
     </div>
