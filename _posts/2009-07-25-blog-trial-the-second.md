@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: ed965911-1932-429c-ae48-09cf07a39b90
 title: Blog trial the second
 ---
 

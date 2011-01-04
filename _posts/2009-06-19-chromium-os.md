@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: 368ce61d-ef5b-45de-99b1-a69852fe23f1
 title: chromium os
 ---
 

@@ -105,9 +105,16 @@ footer
 {
   margin-top: 1em;
   border-top: solid 1px #ccc;
+  text-align: right;
 }
 
 ul
 {
   list-style-type: none;
+}
+/* so I can use liquid loops in markdown lists */
+li p
+{
+  margin-top: 0;
+  margin-bottom: 0;
 }

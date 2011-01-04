@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: 9284826b-a0a7-4dea-995d-2d525ed57f49
 title: random technology update
 ---
 
