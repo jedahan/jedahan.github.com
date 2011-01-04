@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: db5e9c1e-36a3-44a9-b25a-e6a86c9597cc
 title: Exherbo works!
 ---
 

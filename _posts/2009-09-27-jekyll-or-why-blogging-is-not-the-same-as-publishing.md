@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: 485260e8-ca09-4683-a0ce-29c6ac0876eb
 title: "jekyll, or why blogging is not the same as publishing"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: 88408155-29c4-4d3d-8117-c89b7bdcee96
 title: arduino buyers guide
 ---
 

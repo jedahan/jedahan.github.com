@@ -1,5 +1,6 @@
 ---
 layout: post
+uuid: c0d11431-d7c0-45a5-b7fa-67bc96c03e55
 title: anti-lifehacking
 ---
 
