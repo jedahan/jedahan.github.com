@@ -19,7 +19,7 @@ Creations and Consumptions
 - [static visuals][flickr] and [motion pictures][youtube]
 - [programming][github] and [software][ohloh]
 - [curios][reddit] and [antiquities][reader]
-- [acquaintancies][facebook] and [neer-do-wells][facebook]
+- [travels][foursquare] and [acquaintancies][facebook]
 - [thoughts][twitter] and [musings](blog)
 - [qualifications](jonathan_resume.pdf) and [colleagues][linkedin]
 
@@ -29,6 +29,7 @@ Endeavours
 - maintenance an [unofficial repository][summer] for the [Exherbo][] [Linux][] distribution
 
 [exherbo]: http://exherbo.org
+[foursquare]: http://foursquare.com/jedahan
 [facebook]: http://facebook.com/jedahan
 [flickr]: http://www.flickr.com/photos/37234044@N07/
 [github]: http://github.com/jedahan
