@@ -1,7 +1,6 @@
-Ive been in Fog City for a week now, and it flew by really fast
-The first generalization I can make is that here you do not need to make plans to do a lot of fun stuff
-Without any research or planning Ive been super busy every day
-This post will be updated with better grammer and more details as I sort through it all
+Ive been in Fog City for a week now, and it flew by really fast. The first generalization I can make is that here you do not need to make plans to do a lot of fun stuff. Without any research or planning Ive been super busy every day. This post will be updated with better grammer and more details as I sort through it all.
+
+Check out my [flickr], [youtube] and [foursquare] for all that good stuff.
 
 Friday
 ------
@@ -63,3 +62,7 @@ Friday
   Gonna check out a coworking space to get some programming done before beers and dinner tonight.
   WTF san francisco. I just happen to come in on NextSpace Free Day + 4pm happy hour.
   Living here with no plans is just tooooo easy.
+
+[flickr]: http://www.flickr.com/photos/37234044@N07/
+[youtube]: http://www.youtube.com/jedahan
+[foursquare]: http://foursquare.com/jedahan
