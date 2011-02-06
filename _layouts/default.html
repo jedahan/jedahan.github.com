@@ -2,34 +2,40 @@
 <html lang=en>
   <head>
     <meta charset=utf-8>
-    <title>{% if page.title %} {{ page.title }} | {% endif %} {{site.title}}</title>
+    <title>{% if page.title %} {{ page.title }} | {% endif %}{{site.title}}</title>
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" type=image/x-icon href=/favicon.ico />
-    <link rel=stylesheet type=text/css media="screen, projection" charset=utf-8 href=/css/screen.css />
-    <link rel=stylesheet type=text/css media="screen, projection" charset=utf-8 href=/css/pygments.css />
-    <link rel=alternate type="application/rss+xml" title="RSS" href="/atom.xml" />
-    <script src="/_includes/google_analytics.js"></script>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml" />
+
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/pygments.css" />
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="/css/jquery-flickr-gallery.css" />
+
+    <script src="/js/google_analytics.js"></script>
+    <script src="http://code.jquery.com/jquery-1.5.min.js"></script>
+
+    <script src="/js/jquery-flickr-gallery/jquery-flickr-gallery.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/jquery-flickr-gallery.js" type="text/javascript" charset="utf-8"></script>
   </head>
-  <body>
-    <div id=wrap class=container_12>
-      <header class="grid_12 alpha omega">
-        <h1><a href="{{site.url}}">{{site.title}}</a></h1>
-      </header>
-      <div class="clear"></div>
-      <section class="grid_12">
-        {{ content }}
-      </section>
-      <div class="clear"></div>
-      <footer>
-        <div class="grid_8 alpha">
-          <a href="http://twitter.com/jedahan">@jedahan</a>
-        </div>
-        <div class="grid_4 omega">
-          {{site.email}} 
-        </div>
-      </footer>
-    </div>
+
+  <body class=container_12>
+    <header>
+      <h1><a href="{{site.url}}">{{site.title}}</a></h1>
+    </header>
+    <section>
+      {{ content }}
+    </section>
+    <div id="flickr_div"></div>
+    <footer>
+      <div class="grid_8 alpha">
+        <a href="http://twitter.com/jedahan">@jedahan</a>
+      </div>
+      <div class="grid_4 omega">
+        {{site.email}}
+      </div>
+    </footer>
   </body>
+
 </html>

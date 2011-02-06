@@ -1,7 +1,7 @@
 @import url("960gs/960.css");
 
 /* http://www.levien.com/type/myfonts/inconsolata.html */
-@font-face 
+@font-face
 {
   font-family: "inconsolata";
   src: url("/fonts/Inconsolata.otf");
@@ -31,7 +31,7 @@ a
   border-bottom: solid 1px #3030a2;
 }
 a:hover
-{  
+{
   text-decoration:none;
   border-bottom: 0px;
 }
