@@ -21,23 +21,18 @@ body
 {
   color:#333;
   font-family: helvetica, arial, sans-serif;
-  font-size: 87.5%; /* 16px * 0.875 = 14px */
-  line-height: 137.5%; /* 16px * 1.375  = 22px */
+  font-size: 87.5%;    /* 16px * 0.875 = 14px */
+  line-height: 137.5%; /* 16px * 1.375 = 22px */
 }
 
 a
 {
-  text-decoration:none;
-  border-bottom: solid 1px #3030a2;
+  text-decoration: none;
+  border-bottom: 0;
 }
 a:hover
 {
-  text-decoration:none;
-  border-bottom: 0px;
-}
-a:visited{
-  color: #000;
-  border-bottom: solid 1px #ccc;
+  border-bottom: solid 1px;
 }
 
 h1, h2, h3, h4, h5, h6
@@ -61,7 +56,7 @@ h2
 {
   font-size:  137.5%;
 }
-h3 
+h3
 {
   font-size: 125.0%;
 }
@@ -81,7 +76,7 @@ pre,code
 .noul
 {
   border-bottom: 0px;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 header, footer
@@ -97,7 +92,7 @@ header h1{
 header h1 a, header h1 a:visited
 {
   color:#a23030;
-  text-decoration:none;
+  text-decoration: none;
   border-bottom: none;
 }
 
@@ -112,9 +107,21 @@ ul
 {
   list-style-type: none;
 }
+
 /* so I can use liquid loops in markdown lists */
 li p
 {
   margin-top: 0;
   margin-bottom: 0;
+}
+span
+{
+  font-size: 87.5%;
+}
+p em
+{
+  float: left;
+  width: 20%;
+  padding-right: 1em;
+  text-align: right;
 }
