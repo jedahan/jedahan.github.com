@@ -1,8 +1,8 @@
-url: http://jedahan.com
+#url: http://jedahan.com
 title: ideasynth
 description: ideasynth
 author: Jonathan Dahan
 email: jonathan@jedahan.com
 analytics_id: UA-12255499-2
-lst: true
+lsi: true
 use_divs: true

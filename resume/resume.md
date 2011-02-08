@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Jonathan Dahan . [jonathan]@[jedahan.com] . [@jedahan]
 ------------------------------------------------------
 
@@ -39,21 +43,25 @@ skills
 
 projects
 --------
-  [ Image Categorizer ]
-    Categorization and tagging of images using k-nearest neighbor algorithms
-    
-  [ Polyperson Synthesizer ]
-    Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
+  *[ Image Categorizer ]*
 
-  [ Space Ballooning ]
-    Photography of the tri-state area and captured the curvature of the earth from 34,000m
-    
-  [ Exherbo Linux ]
-    Packaging around 100 applications for the exherbo linux distribution
-    Contributing to user documentation
-    
-  [ AMD @ HOPE ]
-    API to access live position tracking of thousands of attendees of a three-day conference
+   Categorization and tagging of images using k-nearest neighbor algorithms
+
+  *[ Polyperson Synthesizer ]*
+
+   Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
+
+  *[ Space Ballooning ]*
+
+   Photography of the tri-state area and captured the curvature of the earth from 34,000m
+
+  *[ Exherbo Linux ]*
+
+   Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
+
+  *[ AMD at HOPE ]*
+
+   API to access live position tracking of thousands of attendees of a three-day conference
 
 organizations
 -------------
@@ -75,16 +83,15 @@ Advanced Multimedia Techniques, Analysis of Algorithms, Fundamentals of Computer
 Graphics, Sound Design, Human-Computer Interaction
 
 
-
 [@jedahan]: http://twitter.com/jedahan
 [jonathan]: mailto:jonathan@jedahan.com
 [jedahan.com]: http://jedahan.com
 
-[ Image_Categorizer ]: http://jedahan.com/project/knn
-[ Polyperson_Synthesizer ]: http://jedahan.com/project/pps
+[ Image_Categorizer ]:
+[ Polyperson_Synthesizer ]:
 [ Space_Ballooning ]: http://islandlabs.org/space
 [ Exherbo_Linux ]: http://summer.exherbo.org/repositories/jedahan
-[ AMD @ HOPE ]: http://amd.hope.net
+[ AMD at HOPE ]: http://amd.hope.net
 
 [Island Labs]: http://islandlabs.org
 [Linux Users Group at Stony Brook]: http://lugsb.org
