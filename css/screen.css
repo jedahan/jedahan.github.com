@@ -125,3 +125,8 @@ p em
   padding-right: 1em;
   text-align: right;
 }
+/* this is for the date in the post title */
+.post h1 em
+{
+  text-size: 100%;
+}
