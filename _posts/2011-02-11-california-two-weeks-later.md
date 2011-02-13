@@ -43,3 +43,7 @@ Thursday
 Friday
 ------
   25 and sunny, hell yeah. Took a bus to Beverly Hills, checked out the shops near the miracle mile and went to the mall. Got some really delicious sushi in Little Tokyo, then got a shirt at some rediculous botique.
+
+[flickr]: http://www.flickr.com/photos/37234044@N07/
+[youtube]: http://www.youtube.com/jedahan
+[foursquare]: http://foursquare.com/jedahan
