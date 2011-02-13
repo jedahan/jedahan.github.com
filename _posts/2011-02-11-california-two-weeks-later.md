@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
   **Warning** this is a WIP, some things will be incomplete/incorrect and generally very sketchbook like. It will be a lot easier to review later and make more sense of things.
 
   I am on the flight back from the City of Angels to San Francisco.

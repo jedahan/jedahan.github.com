@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Ive been in Fog City for a week now, and it flew by really fast. The first generalization I can make is that here you do not need to make plans to do a lot of fun stuff. Without any research or planning Ive been super busy every day. This post will be updated with better grammer and more details as I sort through it all.
 
 Check out my [flickr], [youtube] and [foursquare] for all that good stuff.
