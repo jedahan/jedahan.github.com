@@ -42,10 +42,10 @@ skills
 
 projects
 --------
- * __  Image Categorizer  __
+ * __Image Categorizer__
      Categorization and tagging of images using k-nearest neighbor algorithms
 
- * __  Polyperson Synthesizer  __
+ * __Polyperson Synthesizer__
      Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
  * __[ Space Ballooning ]__
