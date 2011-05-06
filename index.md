@@ -21,7 +21,7 @@ Creations and Consumptions
 - [curios][reddit] and [antiquities][reader]
 - [travels][foursquare] and [acquaintancies][facebook]
 - [thoughts][twitter] and [musings](blog)
-- [qualifications](jonathan_resume.pdf) and [colleagues][linkedin]
+- [qualifications](/resume) and [colleagues][linkedin]
 
 Endeavours
 ----------

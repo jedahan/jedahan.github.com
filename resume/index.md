@@ -13,6 +13,10 @@ about
 
 work
 ----
+ * __Bit Wizard__
+    Develop and document BUG hardware prototyping platform
+      [ [ Bug Labs ], Current ]
+
  * __Web Developer__
     Redesign and develop laboratory information management system for experimental pipeline
       [ Cold Spring Harbor Labs, Fall 2010-2011 ]
@@ -86,6 +90,7 @@ Graphics, Sound Design, Human-Computer Interaction
 [ Space_Ballooning ]: http://islandlabs.org/space
 [ Exherbo_Linux ]: http://summer.exherbo.org/repositories/jedahan
 [ AMD at HOPE ]: http://amd.hope.net
+[ BUG Labs ]: http://buglabs.net
 
 [Island Labs]: http://islandlabs.org
 [Linux Users Group at Stony Brook]: http://lugsb.org
