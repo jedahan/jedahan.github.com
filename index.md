@@ -16,12 +16,13 @@ Recents Rants
 
 Creations and Consumptions
 --------------------------
-- [static visuals][flickr] and [motion pictures][youtube]
-- [programming][github] and [software][ohloh]
-- [curios][reddit] and [antiquities][reader]
-- [travels][foursquare] and [acquaintancies][facebook]
 - [thoughts][twitter] and [musings](blog)
-- [qualifications](/resume) and [colleagues][linkedin]
+- [transitions][meetup] and [travels][foursquare]
+- [programming][github] and [software][ohloh]
+- [oscillations][soundcloud], [static visuals][flickr] and [motion pictures][youtube]
+- [curios][reddit] and [antiquities][reader]
+- [allies][facebook] and [associates][linkedin]
+- [qualifications](resume) 
 
 Endeavours
 ----------
@@ -43,6 +44,9 @@ Endeavours
 [ohloh]: http://ohloh.net/accounts/jedahan/stacks
 [reader]: http://reader.google.com/jedahan
 [reddit]: http://www.reddit.com/user/jedahan/
+[soundcloud]: http://soundcloud.com/jedahan
+[tumblr]: http://jedahan.tumblr.com 
+[meetup]: http://www.meetup.com/members/14261502/
 [summer]: http://git.exherbo.org/summer/repositories/jedahan/index.html
 [sbu]: http://www.sunysb.edu
 [twitter]: http://twitter.com/jedahan
