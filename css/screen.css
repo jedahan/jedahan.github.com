@@ -21,8 +21,6 @@ body
 {
   color:#333;
   font-family: helvetica, arial, sans-serif;
-  font-size: 87.5%;    /* 16px * 0.875 = 14px */
-  line-height: 137.5%; /* 16px * 1.375 = 22px */
 }
 
 a
