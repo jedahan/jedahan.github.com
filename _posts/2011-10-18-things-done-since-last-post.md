@@ -10,6 +10,8 @@ layout: post
     Fucking amazing. I am always down to talking about all the crazy stuff that happened
   - Internet of Things meetup
   - ESC Boston
+  - started job @buglabs
+  - moved to south slope
 
   Todo
   ----
