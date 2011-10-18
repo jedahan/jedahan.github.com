@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-/whois [jedahan][me]
---------------------
-- An experimenter with Computational Machinations, Digital Arts and Electronic Music, hailing from [New York][ny]
+An [experimenter][me] with Computational Machinations, Digital Arts and Electronic Music, hailing from [New York][ny]
 
 Recents Rants
 -------------
