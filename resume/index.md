@@ -46,10 +46,13 @@ skills
 
 projects
 --------
+ * __[BadgeAssassin] at [CCC2011]__
+      Built a game of assassin using the camp badges as local radar. Confused all those who were not playing
+
  * __Image Categorizer__
      Categorization and tagging of images using k-nearest neighbor algorithms
 
- * __Polyperson Synthesizer__
+ * __[ Polyperson Synthesizer ]__
      Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
  * __[ Space Ballooning ]__
@@ -60,6 +63,11 @@ projects
 
  * __[ AMD at HOPE ]__
      API to access live position tracking of thousands of attendees of a three-day conference
+
+events
+------
+
+ * [ MLG Providence ], [ ESC 2011 ], [ Chaos Communications Camp 2011 ][CCC11], [ The Last Hope ], [ The Next Hope ]
 
 organizations
 -------------
@@ -76,6 +84,7 @@ education
 
 classes
 -------
+
  * Computer Communications, Principles of Database Systems, Internet Programming,
 Advanced Multimedia Techniques, Analysis of Algorithms, Fundamentals of Computer
 Graphics, Sound Design, Human-Computer Interaction
@@ -92,5 +101,11 @@ Graphics, Sound Design, Human-Computer Interaction
 [ AMD at HOPE ]: http://amd.hope.net
 [ BUG Labs ]: http://buglabs.net
 
+[ The Last HOPE ]: http://hope.net
+[ The Next HOPE ]: http://hope.net
+
 [Island Labs]: http://islandlabs.org
 [Linux Users Group at Stony Brook]: http://lugsb.org
+
+[ CCC11 ]: http://events.ccc.de/camp/2011
+[ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
