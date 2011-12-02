@@ -8,14 +8,13 @@ Jonathan Dahan
 
 about
 -----
- * Programmer specializing in web development, system administration, hardware
-   hacking, multimedia programming and audiovisual experimentation
+ * Developer who enjoys tinkering with interactive hardware, building web applications to connect people / improve communication and experiment with audiovisual art.
 
 work
 ----
  * __Bit Wizard__
     Develop and document BUG hardware prototyping platform
-      [ [ Bug Labs ], Current ]
+      [ [ Bug Labs ], 2011-2012 ]
 
  * __Web Developer__
     Redesign and develop laboratory information management system for experimental pipeline
@@ -46,7 +45,7 @@ skills
 
 projects
 --------
- * __[BadgeAssassin] at [CCC2011]__
+ * __[ BadgeAssassin ] at [ CCC2011 ]__
       Built a game of assassin using the camp badges as local radar. Confused all those who were not playing
 
  * __Image Categorizer__
@@ -67,7 +66,7 @@ projects
 events
 ------
 
- * [ MLG Providence ], [ ESC 2011 ], [ Chaos Communications Camp 2011 ][CCC11], [ The Last Hope ], [ The Next Hope ]
+ * [ MLG Providence ], [ ESC 2011 ], [ Chaos Communications Camp 2011 ][CCC2011], [ The Last Hope ], [ The Next Hope ]
 
 organizations
 -------------
@@ -81,14 +80,6 @@ education
 
  * Bachelors of Computer Science / Digital Arts from Stony Brook University, Fall 2010
  * Attended Computer Science program at Carnegie Melon University, 2005-2007
-
-classes
--------
-
- * Computer Communications, Principles of Database Systems, Internet Programming,
-Advanced Multimedia Techniques, Analysis of Algorithms, Fundamentals of Computer
-Graphics, Sound Design, Human-Computer Interaction
-
 
 [@jedahan]: http://twitter.com/jedahan
 [jonathan]: mailto:jonathan@jedahan.com
@@ -107,5 +98,5 @@ Graphics, Sound Design, Human-Computer Interaction
 [Island Labs]: http://islandlabs.org
 [Linux Users Group at Stony Brook]: http://lugsb.org
 
-[ CCC11 ]: http://events.ccc.de/camp/2011
+[ CCC2011 ]: http://events.ccc.de/camp/2011
 [ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
