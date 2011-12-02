@@ -4,7 +4,7 @@ layout: default
 
 Jonathan Dahan
 ==============
- *  [jonathan]@[jedahan.com] | [http://github.com/jedahan] | [@jedahan]
+ *  [jonathan]@[jedahan.com] | [[http://github.com/jedahan]] | [@jedahan]
 
 about
 -----
