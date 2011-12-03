@@ -51,8 +51,8 @@ skills
 
 projects
 --------
- * __[ BadgeAssassin ] at [ CCC2011 ]__
-      Built a game of assassin using the camp badges as local radar. Confused all those who were not playing
+ * __[ BadgeAssassin ] @ [ CCC ]__
+      Built a game of assassin using the camp badges as local radar. Confused all nonparticipants.
 
  * __Image Categorizer__
      Categorization and tagging of images using k-nearest neighbor algorithms
