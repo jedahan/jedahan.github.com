@@ -14,7 +14,9 @@ work
 ----
  * __Bit Wizard__ [ [ Bug Labs ], 2011-2012 ]
 
-    Develop and document BUG hardware prototyping platform. Write test cases for javascript messaging platform and design api libraries.
+    Develop and document BUG hardware prototyping platform.
+    Write test cases for javascript messaging platform and design api libraries.
+    Create sample web applications using jQuery and Arduino.
  <br>
 
  * __Web Developer__ [ Cold Spring Harbor Labs, Fall 2010-2011 ]
