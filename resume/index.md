@@ -4,7 +4,7 @@ layout: default
 
 Jonathan Dahan
 ==============
- *  [jonathan]@[jedahan.com] | [[http://github.com/jedahan]] | [@jedahan]
+ *  [jonathan]@[jedahan.com] | [http://github.com/jedahan][github] | [@jedahan]
 
 about
 -----
@@ -106,3 +106,5 @@ education
 
 [ CCC2011 ]: http://events.ccc.de/camp/2011
 [ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
+
+[ github ]: http://github.com/jedahan
