@@ -72,7 +72,7 @@ projects
 events
 ------
 
- * [ MLG Providence ], [ ESC 2011 ], [ Chaos Communications Camp 2011 ][CCC2011], [ The Last Hope ], [ The Next Hope ]
+ * [ MLG Providence ], [ ESC 2011 ], [ Chaos Communications Camp 2011 ][CCC], [ The Last Hope ], [ The Next Hope ]
 
 organizations
 -------------
@@ -104,7 +104,7 @@ education
 [Island Labs]: http://islandlabs.org
 [Linux Users Group at Stony Brook]: http://lugsb.org
 
-[ CCC2011 ]: http://events.ccc.de/camp/2011
+[ CCC ]: http://events.ccc.de/camp/2011
 [ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
 
 [ github ]: http://github.com/jedahan
