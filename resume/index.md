@@ -13,7 +13,7 @@ about
 
 work
 ----
- * __Bit Wizard__ [ Bug Labs ][], 2011-2012
+ * __Bit Wizard__ | [ Bug Labs ][] | [ Spring 2011 - Fall 2011 ][]
 
      Create getting started guide and tutorial application using jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
 
