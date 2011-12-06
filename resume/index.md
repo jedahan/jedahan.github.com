@@ -3,7 +3,7 @@ layout: default
 Jonathan Dahan
 ==============
 
- *  [jonathan][] @[jedahan.com][] | [github.com/jedahan][github] | [@jedahan][]
+ *  [jonathan][]@[jedahan.com][] | [github.com/jedahan][github] | [@jedahan][]
 
 about
 -----
