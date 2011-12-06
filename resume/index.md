@@ -45,7 +45,7 @@ skills
      Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
 
  * __software__
-     Linux Administration, Arduino + Processing, OSC, MIDI, git
+     Linux Administration, Arduino, Processing, OSC, MIDI, git
 
  * __hardware__
      Arduino, iPhone, Stepper Motors, Nintendo Wii, monome controllers
