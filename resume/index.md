@@ -41,15 +41,10 @@ work
 skills
 ------
 
- __languages__
- :  Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
- :
- __software__
- :   Linux Administration, Arduino, Processing, OSC, MIDI, git
- :
- __hardware__
- :   Arduino, Android, Stepper Motors, Nintendo Wii, monome controllers
- :
+ * __languages__ Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript <br>
+ * __software__ Linux Administration, Arduino, Processing, OSC, MIDI, git <br>
+ * __hardware__ Arduino, Android, Stepper Motors, Nintendo Wii, monome controllers <br>
+
 projects
 --------
 
