@@ -5,7 +5,7 @@ layout: default
 Jonathan Dahan
 ==============
 
- *  [jonathan]@[jedahan.com] | [github.com/jedahan][github] | [@jedahan]
+ *  [jonathan][] @[jedahan.com][] | [github.com/jedahan][github] | [@jedahan][]
 
 about
 -----
@@ -13,28 +13,28 @@ about
 
 work
 ----
- * __Bit Wizard__ [ [ Bug Labs ], 2011-2012 ]
+ * __Bit Wizard__ [ Bug Labs ][], 2011-2012
 
     Create getting started guide and tutorial application using jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
     Write CoffeeScript/Mocha BDD tests for javascript libraries that interface with custom messaging platform.
     Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
-      <br>
 
- * __Web Developer__ [ Cold Spring Harbor Labs, Fall 2010-2011 ]
+ * __Web Developer__ [ Cold Spring Harbor Labs ][], Fall 2010-2011
 
     Redesign and implement ruby-on-rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
-      <br>
 
- * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation, 2007-2011 ]
+
+ * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][], 2007-2011
 
     Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
-      <br>
 
- * __Web Developer__ [ Chyron, Summer 2008 ]
 
-    QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
 
- * __Developer__ [ Nu Horizons, Summers 2003-2005 ]
+ * __Web Developer__ [ Chyron ][], Summer 2008
+
+   * QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
+
+ * __Developer__ [ Nu Horizons ][], Summers 2003-2005
 
     Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
       <br>
@@ -53,33 +53,39 @@ skills
 projects
 --------
  * __[ BadgeAssassin ] @ [ CCC ]__
+
       Built a game of assassin using the camp badges as local radar. Confused all nonparticipants.
 
  * __Image Categorizer__
+
      Categorization and tagging of images using k-nearest neighbor algorithms
 
  * __[ Polyperson Synthesizer ]__
+
      Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
  * __[ Space Ballooning ]__
+
      Photography of the tri-state area and captured the curvature of the earth from 34,000m
 
  * __[ Exherbo Linux ]__
+
      Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
 
  * __[ AMD at HOPE ]__
+
      API to access live position tracking of thousands of attendees of a three-day conference
 
 events
 ------
 
- * [ MLG Providence ], [ ESC 2011 ], [ Chaos Communications Camp 2011 ][CCC], [ The Last Hope ], [ The Next Hope ]
+ * [ MLG Providence ][], [ ESC 2011 ][], [ Chaos Communications Camp 2011 ][CCC], [ The Last Hope ][], [ The Next Hope ][]
 
 organizations
 -------------
 
- * Founded [Island Labs] hackerspace, Fall 2008
- * President of the [Linux Users Group at Stony Brook], 2008
+ * Founded [Island Labs][] hackerspace, Fall 2008
+ * President of the [Linux Users Group at Stony Brook][], 2008
  * Brother of Sigma Nu, Delta Sigma chapter, matriculated 2007
 
 education
