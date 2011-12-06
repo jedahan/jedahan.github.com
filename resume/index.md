@@ -1,6 +1,4 @@
----
 layout: default
----
 
 Jonathan Dahan
 ==============
