@@ -26,13 +26,10 @@ work
 
  * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][], 2007-2011
 
-    Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
-
-
-
+   Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
  * __Web Developer__ [ Chyron ][], Summer 2008
 
-   * QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
+   QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
 
  * __Developer__ [ Nu Horizons ][], Summers 2003-2005
 
