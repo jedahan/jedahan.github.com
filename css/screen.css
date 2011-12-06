@@ -108,7 +108,7 @@ ul
 
 li
 {
-  margin-bottom: 9px;
+  margin-top: 1em;
 }
 
 /* so I can use liquid loops in markdown lists */
