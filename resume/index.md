@@ -42,7 +42,7 @@ work
 skills
 ------
  * __languages__
-     Java, C++, C, XHTML+CSS, Bash, Ruby, Python, javascript
+     Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
 
  * __software__
      Linux Administration, Arduino + Processing, OSC, MIDI, git
