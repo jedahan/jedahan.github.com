@@ -48,7 +48,7 @@ skills
      Linux Administration, Arduino, Processing, OSC, MIDI, git
 
  * __hardware__
-     Arduino, iPhone, Stepper Motors, Nintendo Wii, monome controllers
+     Arduino, Android, Stepper Motors, Nintendo Wii, monome controllers
 
 projects
 --------
