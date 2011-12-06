@@ -8,7 +8,7 @@ Jonathan Dahan
 
 about
 -----
- * Developer who enjoys tinkering with interactive hardware, building web applications to connect people, improving communication through technology and experiment with audiovisual art.
+ * Developer who enjoys tinkering with interactive hardware, building web applications to connect people, improving communication through technology and experimenting with audiovisual art.
 
 work
 ----
