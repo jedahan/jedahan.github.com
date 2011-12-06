@@ -16,23 +16,25 @@ work
  * __Bit Wizard__ [ Bug Labs ][], 2011-2012
 
     Create getting started guide and tutorial application using jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
+
     Write CoffeeScript/Mocha BDD tests for javascript libraries that interface with custom messaging platform.
+
     Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
 
- * __Web Developer__ [ Cold Spring Harbor Labs ][], Fall 2010-2011
+   __Web Developer__ [ Cold Spring Harbor Labs ][], Fall 2010-2011
 
     Redesign and implement ruby-on-rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
 
 
- * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][], 2007-2011
+   __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][], 2007-2011
 
-   Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
+     Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
 
    __Web Developer__ [ Chyron ][], Summer 2008
 
-   QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
+     QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
 
- * __Developer__ [ Nu Horizons ][], Summers 2003-2005
+   __Developer__ [ Nu Horizons ][], Summers 2003-2005
 
     Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
       <br>
