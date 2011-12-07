@@ -48,29 +48,15 @@ skills
 projects
 --------
 
- * __[ BadgeAssassin ] @ [ CCC ]__
+ * __[ BadgeAssassin ]__ Built a game of [assassin][] at [CCC][] using the [camp badges][] as local radar. Confused all nonparticipants.
 
-      Built a game of assassin using the camp badges as local radar. Confused all nonparticipants.
+ * __[ Polyplayer Synth ]__ Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
- * __Image Categorizer__
+ * __[ Space Balloon ]__ Photography of the tri-state area and captured the curvature of the earth from 34,000m with over-the-shelf hardware
 
-     Categorization and tagging of images using k-nearest neighbor algorithms
+ * __[ Exherbo Linux ]__ Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
 
- * __[ Polyperson Synthesizer ]__
-
-     Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
-
- * __[ Space Ballooning ]__
-
-     Photography of the tri-state area and captured the curvature of the earth from 34,000m
-
- * __[ Exherbo Linux ]__
-
-     Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
-
- * __[ AMD at HOPE ]__
-
-     API to access live position tracking of thousands of attendees of a three-day conference
+ * __[ AMD at HOPE ]__ Built API to access live position tracking of thousands of attendees of a three-day conference, enabling developers to create games on the platform
 
 events
 ------
