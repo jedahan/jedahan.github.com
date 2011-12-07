@@ -141,6 +141,6 @@ strong{ display:inline-block;}
 #projects + ul li strong{ width:200px; }
 
 #work + ul li p:first-child { text-align:right; color:grey}
-#work + ul li p:first-child strong{ float:left; color:black }
+#work + ul li p:first-child strong{ float:left; color:#333 }
 
 ul li{margin-bottom:15px;}
