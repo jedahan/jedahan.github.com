@@ -106,11 +106,6 @@ ul
   list-style-type: none;
 }
 
-li
-{
-  margin-top: 1em;
-}
-
 /* so I can use liquid loops in markdown lists */
 li p
 {

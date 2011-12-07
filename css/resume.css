@@ -8,3 +8,4 @@ strong{ display:inline-block;}
 #work + ul li p:first-child strong{ float:left; color:#333 }
 
 ul li{margin-bottom:15px;}
+li{margin-top: 1em;}
