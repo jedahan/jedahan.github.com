@@ -13,7 +13,7 @@ about
 
 work
 ----
- * __Bit Wizard__ | [ Bug Labs ][] | [ Spring 2011 - Fall 2011 ][]
+ * __Bit Wizard__ [ Bug Labs ][] | [ Spring 2011 - Fall 2011 ][]
 
      Create getting started guide and tutorial application using jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
 
@@ -21,29 +21,29 @@ work
 
      Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
 
- * __Web Developer__ | [ Cold Spring Harbor Labs ][] | [Fall 2010-2011][]
+ * __Web Developer__ [ Cold Spring Harbor Labs ][] | [Fall 2010-2011][]
 
      Redesign and implement ruby-on-rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
 
 
- * __Cluster Sysadmin__ | [ SUNY Stonybrook Research Foundation ][] | [2007-2011][]
+ * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][] | [2007-2011][]
 
      Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
 
- * __Web Developer__ | [ Chyron ][] | [Summer 2008][]
+ * __Web Developer__ [ Chyron ][] | [Summer 2008][]
 
      QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
 
- * __Developer__ | [ Nu Horizons ][] | [Summers 2003-2005][]
+ * __Developer__ [ Nu Horizons ][] | [Summers 2003-2005][]
 
      Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
 
 skills
 ------
 
- * __languages__ Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript <br>
- * __software__ Linux Administration, Arduino, Processing, OSC, MIDI, git <br>
- * __hardware__ Arduino, Android, Stepper Motors, Nintendo Wii, monome controllers <br>
+ * __languages__ Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
+ * __software__ Linux Administration, Arduino, Processing, OSC, MIDI, git
+ * __hardware__ Arduino, Android, Stepper Motors, Nintendo Wii, monome controllers
 
 projects
 --------
