@@ -5,11 +5,11 @@ layout: resume
 Jonathan Dahan
 ==============
 
- *  [jonathan][]@[jedahan.com][] | [github.com/jedahan][github] | [@jedahan][]
+ [jonathan][]@[jedahan.com][] | [github.com/jedahan][github] | [@jedahan][]
 
 about
 -----
- * Developer who enjoys tinkering with interactive hardware, building web applications to connect people, improving communication through technology and experimenting with audiovisual art.
+ * Developer who enjoys recombining hardware to create new interactions, building web applications that impact how people connect with each other, improving communication through technology and experimenting with audiovisual art.
 
 work
 ----
