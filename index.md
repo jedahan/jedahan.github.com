@@ -6,7 +6,7 @@ a [hacker][me] of Computational Machinations, Digital Arts and Electronic Music,
 
 Projects
 --------
-- see [jedahan.jux.com][] for recent projects
+- see [jedahan.jux.com](jedahan.jux.com) for recent projects
 
 Recents Rants
 -------------
@@ -23,7 +23,7 @@ Creations and Consumptions
 - [oscillations][soundcloud], [static visuals][flickr] and [motion pictures][youtube]
 - [curios][reddit] and [antiquities][reader]
 - [allies][facebook] and [associates][linkedin]
-- [qualifications](resume) 
+- [qualifications](resume)
 
 Endeavours
 ----------
