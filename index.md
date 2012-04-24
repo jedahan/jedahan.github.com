@@ -4,6 +4,10 @@ title: Home
 ---
 a [hacker][me] of Computational Machinations, Digital Arts and Electronic Music, hailing from [New York][ny]
 
+Projects
+--------
+- see [jedahan.jux.com][] for recent projects
+
 Recents Rants
 -------------
 {% for post in site.posts limit: 7 %}
