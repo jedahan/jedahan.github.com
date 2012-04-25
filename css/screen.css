@@ -15,7 +15,7 @@
 }
 
 body {
-  color:#333;
+  color: #333;
   font-family: helvetica, arial, sans-serif;
 }
 
@@ -29,39 +29,31 @@ a:hover {
 }
 
 header,
-h1,
 h2,
 {
-  color: #000;
-  font-size: 200%;
   font-family: "droid sans", helvetica, arial, sans-serif;
-}
-
-h1 {
-  font-size: 150%;
 }
 
 h2 {
   font-size:  137.5%;
 }
 
-pre,code {
+pre,
+code,
+{
   font-family: "inconsolata", monospace;
 }
 
 header,
-footer
+footer,
 {
-  display: block;
   padding: 1em 0;
 }
 
-header a,
-header a:visited
+header,
 {
-  color:#a23030;
-  text-decoration: none;
-  border-bottom: none;
+  font-size: 200%;
+  color: #a23030;
 }
 
 footer {
@@ -74,38 +66,22 @@ ul {
   list-style-type: none;
 }
 
-/* so I can use liquid loops in markdown lists */
-li p
-{
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-span
-{
+span {
   font-size: 87.5%;
 }
 
-p em
-{
-  float: left;
-  width: 20%;
-  padding-right: 1em;
-  text-align: right;
-}
-
-/* this is for the date in the post title */
-.post h1 em
-{
-  font-size: 50%;
-}
-
-.body {
+body {
   width: 960px;
   margin: auto;
 }
 
-.twitter,
-.email {
+#twitter,
+#email,
+{
   text-align: right;
+}
+
+li p {
+  margin-top: 0;
+  margin-bottom: 0;
 }
