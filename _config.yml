@@ -3,5 +3,5 @@ title: jonathan.is
 author: Jonathan Dahan
 email: jonathan@jedahan.com
 analytics_id: UA-12255499-2
-lsi: true
+markdown: redcarpet
 use_divs: true
