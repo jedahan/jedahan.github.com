@@ -11,7 +11,7 @@ Projects
 Recents Rants
 -------------
 {% for post in site.posts limit: 7 %}
-- » [{{post.title}}]({{post.url}})
+- [{{post.title}}]({{post.url}})
 {% endfor %}
 - ...[more](/blog)
 
