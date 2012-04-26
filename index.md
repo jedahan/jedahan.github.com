@@ -6,7 +6,7 @@ a [hacker][me] of Computational Machinations, Digital Arts and Electronic Music,
 
 Projects
 --------
-- see [jedahan.jux.com](http://jedahan.jux.com) for recent projects
+- see http://jedahan.jux.com for recent projects
 
 Recents Rants
 -------------
@@ -46,7 +46,7 @@ Endeavours
 [reader]: http://reader.google.com/jedahan
 [reddit]: http://www.reddit.com/user/jedahan/
 [soundcloud]: http://soundcloud.com/jedahan
-[tumblr]: http://jedahan.tumblr.com 
+[tumblr]: http://jedahan.tumblr.com
 [meetup]: http://www.meetup.com/members/14261502/
 [summer]: http://git.exherbo.org/summer/repositories/jedahan/index.html
 [sbu]: http://www.sunysb.edu
