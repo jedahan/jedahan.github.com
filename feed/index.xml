@@ -10,8 +10,8 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
  <author>
-   <name>Ali Polatel</name>
-   <email>alip@exherbo.org</email>
+   <name>Jonathan Dahan</name>
+   <email>jonathan@jedahan.com</email>
  </author>
 
  {% for post in site.posts %}
