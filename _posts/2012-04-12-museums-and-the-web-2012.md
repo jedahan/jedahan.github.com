@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Day 1
 -----
 arrived around noon in san diego, great weather
