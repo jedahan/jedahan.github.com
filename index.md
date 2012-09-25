@@ -33,7 +33,7 @@ Endeavours
 [exherbo]: http://exherbo.org
 [foursquare]: http://foursquare.com/jedahan
 [facebook]: http://facebook.com/jedahan
-[flickr]: http://www.flickr.com/photos/37234044@N07/
+[flickr]: http://www.flickr.com/photos/37234044@N07/sets/
 [github]: http://github.com/jedahan
 [hackerspace]: http://en.wikipedia.org/HackerSpace
 [labs]: http://islandlabs.org
@@ -49,6 +49,5 @@ Endeavours
 [tumblr]: http://jedahan.tumblr.com
 [meetup]: http://www.meetup.com/members/14261502/
 [summer]: http://git.exherbo.org/summer/repositories/jedahan/index.html
-[sbu]: http://www.sunysb.edu
 [twitter]: http://twitter.com/jedahan
 [youtube]: http://youtube.com/jedahan
