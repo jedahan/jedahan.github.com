@@ -17,8 +17,8 @@ Recents Rants
 
 Creations and Consumptions
 --------------------------
-- [thoughts][twitter] and [musings](blog)
-- [transitions][meetup] and [travels][foursquare]
+- [thoughts][twitter] and [theses](blog)
+- [travels][foursquare] and [transitions][meetup]
 - [programming][github] and [software][ohloh]
 - [oscillations][soundcloud], [static visuals][flickr] and [motion pictures][youtube]
 - [curios][reddit] and [antiquities][reader]
