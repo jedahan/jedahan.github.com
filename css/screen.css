@@ -29,8 +29,7 @@ a:hover {
 }
 
 header,
-h2,
-{
+h2 {
   font-family: "droid sans", helvetica, arial, sans-serif;
 }
 
@@ -39,14 +38,12 @@ h2 {
 }
 
 pre,
-code,
-{
+code {
   font-family: "inconsolata", monospace;
 }
 
 header,
-footer,
-{
+footer {
   padding: 1em 0;
 }
 
