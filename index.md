@@ -6,7 +6,7 @@ a [hacker][me] of Computational Machinations, Digital Arts and Electronic Music,
 
 Projects
 --------
-- see http://jedahan.jux.com for recent projects
+- see http://jonathan.is for recent projects
 
 Recents Rants
 -------------
