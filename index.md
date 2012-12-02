@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-a [hacker][me] of Computational Machinations, Digital Arts and Electronic Music, hailing from [New York][ny]
+a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [New York][ny]
 
 Projects
 --------
