@@ -5,7 +5,7 @@ layout: resume
 Jonathan Dahan
 ==============
 
- [jonathan][]@[jedahan.com][] | [github.com/jedahan][github] | [@jedahan][]
+ [jonathan][]@[jedahan.com][] | [http://github.com/jedahan](http://github.com/jedahan) | [@jedahan][]
 
 about
 -----
@@ -13,7 +13,11 @@ about
 
 work
 ----
- * __Bit Wizard__ [ Bug Labs ][] | [ Spring 2011 - Fall 2011 ][]
+ * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Now
+
+     Develop in-gallery interactives, html+coffeescript+css based. Build collections api.
+
+ * __Bit Wizard__ [ Bug Labs ][] | Spring 2011 - Fall 2011
 
      Create getting started guide and tutorial application using jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
 
@@ -21,20 +25,20 @@ work
 
      Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
 
- * __Web Developer__ [ Cold Spring Harbor Labs ][] | [Fall 2010-2011][]
+ * __Web Developer__ [ Cold Spring Harbor Labs ][] | Fall 2010-2011
 
      Redesign and implement ruby-on-rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
 
 
- * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][] | [2007-2011][]
+ * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][] | 2007-2011
 
      Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
 
- * __Web Developer__ [ Chyron ][] | [Summer 2008][]
+ * __Web Developer__ [ Chyron ][] | Summer 2008
 
      QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
 
- * __Developer__ [ Nu Horizons ][] | [Summers 2003-2005][]
+ * __Developer__ [ Nu Horizons ][] | Summers 2003-2005
 
      Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
 
@@ -48,27 +52,27 @@ skills
 projects
 --------
 
- * __[ BadgeAssassin ]__ Built a game of [assassin][] at [CCC][] using the [camp badges][] as local radar. Confused all nonparticipants.
+ * __[ BadgeAssassin ][]__ Built a game of [assassin][] at [CCC][] using the [camp badges][] as local radar. Confused all nonparticipants.
 
- * __[ Polyplayer Synth ]__ Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
+ * __[ Polyplayer Synth ][]__ Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
- * __[ Space Balloon ]__ Photography of the tri-state area and captured the curvature of the earth from 34,000m with over-the-shelf hardware
+ * __[ Space Balloon ][]__ Photography of the tri-state area and captured the curvature of the earth from 34,000m with over-the-shelf hardware
 
- * __[ Exherbo Linux ]__ Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
+ * __[ Exherbo Linux ][]__ Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
 
- * __[ AMD at HOPE ]__ Built API to access live position tracking of thousands of attendees of a three-day conference, enabling developers to create games on the platform
+ * __[ AMD at HOPE ][]__ Built API to access live position tracking of thousands of attendees of a three-day conference, enabling developers to create games on the platform
 
 events
 ------
 
- * [ MLG Providence ][], [ ESC 2011 ][], [ Chaos Communications Camp 2011 ][CCC], [ The Last Hope ][], [ The Next Hope ][]
+ * [ Museum Computer Network ][], [ EyeO Festival ][], [ Museums and the Web ][], [ MLG Providence ][], [ Chaos Communications Camp ][], [ The Last Hope ][], [ The Next Hope ][]
 
 organizations
 -------------
 
- * Founded [Island Labs][] hackerspace, Fall 2008
- * President of the [Linux Users Group at Stony Brook][], 2008
- * Brother of Sigma Nu, Delta Sigma chapter, matriculated 2007
+ * Founded [ Island Labs ][] hackerspace, Fall 2008
+ * President of the [ Linux Users Group at Stony Brook ][], 2008
+ * Brother of [Sigma Nu][], Delta Sigma chapter, matriculated 2007
 
 education
 ---------
@@ -80,19 +84,32 @@ education
 [jonathan]: mailto:jonathan@jedahan.com
 [jedahan.com]: http://jedahan.com
 
-[ Image_Categorizer ]: #
-[ Polyperson_Synthesizer ]: #
-[ Space_Ballooning ]: http://islandlabs.org/space
-[ Exherbo_Linux ]: http://summer.exherbo.org/repositories/jedahan
+[ Image_Categorizer ]: http://example.com
+[ Polyplayer Synth ]: http://example.com
+[ Space Balloon ]: http://islandlabs.org/space
+[ Exherbo Linux ]: http://exherbo.org/
 [ AMD at HOPE ]: http://amd.hope.net
 [ BUG Labs ]: http://buglabs.net
 [ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
 
+
+[ Museum Computer Network ]: http://mcn.edu
+[ EyeO Festival ]: http://eyeofestival.com
+[ Museums and the Web ]: http://www.museumsandtheweb.com
+[ MLG Providence ]: http://wiki.teamliquid.net/starcraft2/2011_MLG_Pro_Circuit/Providence
 [ The Last HOPE ]: http://hope.net
 [ The Next HOPE ]: http://hope.net
-[ CCC ]: http://events.ccc.de/camp/2011
+[ Chaos Communications Camp ]: http://events.ccc.de/camp/2011
 
 [ Island Labs ]: http://islandlabs.org
 [ Linux Users Group at Stony Brook ]: http://lugsb.org
 
-[ github ]: http://github.com/jedahan
+[ http://github.com/jedahan ]: http://github.com/jedahan
+
+[ BUG Labs ]: http://buglabs.net
+[ Cold Spring Harbor Labs ]: http://www.cshl.edu
+[ SUNY Stonybrook Research Foundation ]: http://www.stonybrook.edu/research
+[ Chyron ]: http://www.chyron.com
+[ Nu Horizons ]: http://www.nuhorizons.com
+
+[ Sigma Nu ]: http://www.sigmanu.org
