@@ -111,5 +111,6 @@ education
 [ SUNY Stonybrook Research Foundation ]: http://www.stonybrook.edu/research
 [ Chyron ]: http://www.chyron.com
 [ Nu Horizons ]: http://www.nuhorizons.com
+[ Metropolitan Museum of Art ]: http://metmuseum.org
 
 [ Sigma Nu ]: http://www.sigmanu.org
