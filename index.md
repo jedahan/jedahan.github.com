@@ -30,6 +30,13 @@ Endeavours
 - foundation of a [Island Labs][labs], a [long island][map] [hackerspace][]
 - maintenance an [unofficial repository][summer] for the [Exherbo][] [Linux][] distribution
 
+<span style="display: none;">
+  <p>This is for <a href="https://indieauth.com">IndieAuth</a> support.</p>
+  <a rel='me' href="https://twitter.com/jedahan">twitter</a>
+  <a rel='me' href="https://github.com/jedahan">github</a>
+  <a rel='me' href="http://www.flickr.com/people/37234044@N07">flickr</a>
+</span>
+
 [exherbo]: http://exherbo.org
 [foursquare]: http://foursquare.com/jedahan
 [facebook]: http://facebook.com/jedahan
