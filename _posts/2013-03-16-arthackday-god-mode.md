@@ -11,7 +11,7 @@ I participated in [ArtHackDay: God Mode][]. The four projects I helped work on w
 
 ### [Iconoclashes](http://iconoclashes.com)
 
-  Wherein a photoshop script built by Erik and Clement mashed up artwork pulled from my [unofficial metropolitan museum api][http://scrAPI.org]. Beautiful work.
+  Wherein a photoshop script built by Erik and Clement mashed up artwork pulled from my [unofficial metropolitan museum api](http://scrAPI.org). Beautiful work.
 
 ### [Twetr](http://arthackday.net/god_mode/65/)
 
