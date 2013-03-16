@@ -58,3 +58,13 @@ So thats the fluff, heres the crunch:
 ## More about Deliver
 
   Should deliver just use foreman start and foreman stop? Should launch() be in libexec/common() and support all the foreman exports directly?
+
+[deliver]: example.com
+[restify]: example.com
+[poor code]: example.com
+[DTrace]: example.com
+[flamegraphs]: example.com
+[illumos]: example.com
+[Zones]: example.com
+[heroku]: example.com
+[foreman]: example.com
