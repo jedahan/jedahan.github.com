@@ -68,3 +68,4 @@ So thats the fluff, heres the crunch:
 [Zones]: example.com
 [heroku]: example.com
 [foreman]: example.com
+[strategy]: example.com
