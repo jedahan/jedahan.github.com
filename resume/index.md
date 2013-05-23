@@ -15,7 +15,7 @@ work
 ----
  * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Now
 
-     Develop in-gallery interactives, html+coffeescript+css based. Build collections api.
+     Develop in-gallery interactives (virtual touchbook, twitter plain or fancy interactive), html+coffeescript+css based. Build collections api in node.js for external use (see Iconoclashes). Manage 3D hackathon with two dozen artists. Setup projector visualisations for LIARS concert in dendur.
 
  * __Bit Wizard__ [ Bug Labs ][] | Spring 2011 - Fall 2011
 
