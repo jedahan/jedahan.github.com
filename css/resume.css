@@ -6,3 +6,4 @@ strong{ display:inline-block;}
 
 #work + ul li p:first-child { text-align:right; color:grey}
 #work + ul li p:first-child strong{ float:left; color:#333 }
+li p:before { content: ''; }
