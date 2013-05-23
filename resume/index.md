@@ -52,7 +52,7 @@ skills
 projects
 --------
 
- * __[ BadgeAssassin ][]__ Built a game of [ assassin ][] at [ CCC ][] using the [ camp badges ][] as local radar. Confused all nonparticipants.
+ * __[ BadgeAssassin ][]__ Built a game of [ assassin ][ BadgeAssassin ] at [ CCC ][ Chaos Communications Camp ] using the [ camp badges ][ r0ket ] as local radar. Confused all nonparticipants.
 
  * __[ Polyplayer Synth ][]__ Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
@@ -92,7 +92,6 @@ education
 [ BUG Labs ]: http://buglabs.net
 [ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
 
-
 [ Museum Computer Network ]: http://mcn.edu
 [ EyeO Festival ]: http://eyeofestival.com
 [ Museums and the Web ]: http://www.museumsandtheweb.com
@@ -100,6 +99,7 @@ education
 [ The Last HOPE ]: http://hope.net
 [ The Next HOPE ]: http://hope.net
 [ Chaos Communications Camp ]: http://events.ccc.de/camp/2011
+[ r0ket ]: http://r0ket.badge.events.ccc.de/
 
 [ Island Labs ]: http://islandlabs.org
 [ Linux Users Group at Stony Brook ]: http://lugsb.org
