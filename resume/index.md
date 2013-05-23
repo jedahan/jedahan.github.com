@@ -52,7 +52,7 @@ skills
 projects
 --------
 
- * __[ BadgeAssassin ][]__ Built a game of [assassin][] at [CCC][] using the [camp badges][] as local radar. Confused all nonparticipants.
+ * __[ BadgeAssassin ][]__ Built a game of [ assassin ][] at [ CCC ][] using the [ camp badges ][] as local radar. Confused all nonparticipants.
 
  * __[ Polyplayer Synth ][]__ Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
 
@@ -72,7 +72,7 @@ organizations
 
  * Founded [ Island Labs ][] hackerspace, Fall 2008
  * President of the [ Linux Users Group at Stony Brook ][], 2008
- * Brother of [Sigma Nu][], Delta Sigma chapter, matriculated 2007
+ * Brother of [ Sigma Nu ][], Delta Sigma chapter, matriculated 2007
 
 education
 ---------
