@@ -6,7 +6,7 @@ a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds
 
 Projects
 --------
-- see [http://jonathan.is][] for recent projects
+- see [http://jonathan.is](http://jonathan.is) for recent projects
 
 Words
 -----
@@ -31,7 +31,7 @@ Endeavours
 
 Qualifications
 --------------
-A more [traditional resume](resume)
+- A more [traditional resume](resume)
 
 <div style="display: none;">
   <p>This is for <a href="https://indieauth.com">IndieAuth</a> support.</p>
