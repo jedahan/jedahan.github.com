@@ -2,14 +2,14 @@
 layout: default
 title: Home
 ---
-a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [New York][ny]
+a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][bk]
 
 Projects
 --------
-- see http://jonathan.is for recent projects
+- see [http://jonathan.is][] for recent projects
 
-Recents Rants
--------------
+Words
+-----
 {% for post in site.posts limit: 7 %}
 - [{{post.title}}]({{post.url}})
 {% endfor %}
@@ -17,24 +17,25 @@ Recents Rants
 
 Creations and Consumptions
 --------------------------
-- [thoughts][twitter] and [theses](blog)
+- [thoughts][twitter] and [theses](/blog)
 - [travels][foursquare] and [transitions][meetup]
 - [programming][github] and [software][ohloh]
 - [oscillations][soundcloud], [static visuals][flickr] and [motion pictures][youtube]
 - [curios][reddit] and [antiquities][reader]
 - [allies][facebook] and [associates][linkedin]
-- [qualifications](resume)
 
 Endeavours
 ----------
-- foundation of a [Island Labs][labs], a [long island][map] [hackerspace][]
+- foundation of a [Island Labs][labs], a [long island][li] [hackerspace][]
 - maintenance an [unofficial repository][summer] for the [Exherbo][] [Linux][] distribution
+
+Qualifications
+--------------
+A more [traditional resume](resume)
 
 <div style="display: none;">
   <p>This is for <a href="https://indieauth.com">IndieAuth</a> support.</p>
-  <a rel='me' href="https://twitter.com/jedahan">twitter</a>
   <a rel='me' href="https://github.com/jedahan">github</a>
-  <a rel='me' href="http://www.flickr.com/people/37234044@N07">flickr</a>
 </div>
 
 [exherbo]: http://exherbo.org
@@ -46,9 +47,9 @@ Endeavours
 [labs]: http://islandlabs.org
 [linkedin]: http://www.linkedin.com/in/jedahan
 [linux]: http://en.wikipedia.org/Linux
-[map]: http://maps.google.com/maps?f=q&source=s_q&hl=en&q=&vps=1&jsv=168d&sll=37.09024,-95.712891&sspn=56.375007,89.208984&ie=UTF8&geocode=FZZkbgIdkAyk-w&split=0
+[li]: https://www.google.com/maps/place/Long+Island/
 [me]: images/me.png
-[ny]: http://en.wikipedia.org/wiki/New_York
+[bk]: https://www.google.com/maps/@40.66042,-73.986312,13z
 [ohloh]: http://ohloh.net/accounts/jedahan/stacks
 [reader]: http://reader.google.com/jedahan
 [reddit]: http://www.reddit.com/user/jedahan/
