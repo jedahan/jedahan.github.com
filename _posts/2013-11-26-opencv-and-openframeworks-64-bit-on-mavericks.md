@@ -12,12 +12,13 @@ Make sure you have homebrew installed, then do the following:
   * `brew install python numpy`
   * `pip install numpy`
   * add the following to args in /usr/local/Cellar/Formula/opencv.rb:
-```
--DCMAKE_OSX_SYSROOT='/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/'
--DCMAKE_OSX_DEPLOYMENT_TARGET=10.9
--DOPENCV_EXTRA_C_FLAGS='-mmacosx-version-min=10.9'
--DOPENCV_EXTRA_CXX_FLAGS='-mmacosx-version-min=10.9'
-```
+
+        -DCMAKE_OSX_SYSROOT='/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/'
+        -DCMAKE_OSX_DEPLOYMENT_TARGET=10.9
+        -DOPENCV_EXTRA_C_FLAGS='-mmacosx-version-min=10.9'
+        -DOPENCV_EXTRA_CXX_FLAGS='-mmacosx-version-min=10.9'
+
+
   * `brew install opencv`
   * use [nick hardeman's 64-bit fork of openFrameworks](https://github.com/NickHardeman/openframeworks_osx_64)
   * make sure all the targets are 10.9 for your app
