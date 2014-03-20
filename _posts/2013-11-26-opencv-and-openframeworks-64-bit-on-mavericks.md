@@ -23,3 +23,6 @@ Make sure you have homebrew installed, then do the following:
   * use [nick hardeman's 64-bit fork of openFrameworks](https://github.com/NickHardeman/openframeworks_osx_64)
   * make sure all the targets are 10.9 for your app
   * add the correct dylibs from /usr/local/lib to the project
+  * If you are using the makefiles, just prepend the following to your project `Makefile`
+
+        USER_CFLAGS = -I/usr/local/include
