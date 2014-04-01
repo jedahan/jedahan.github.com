@@ -48,7 +48,7 @@ Qualifications
 [linkedin]: http://www.linkedin.com/in/jedahan
 [linux]: http://en.wikipedia.org/Linux
 [li]: https://www.google.com/maps/place/Long+Island/
-[me]: images/me.png
+[me]: images/me.jpg
 [bk]: https://www.google.com/maps/@40.66042,-73.986312,13z
 [ohloh]: http://ohloh.net/accounts/jedahan/stacks
 [reader]: http://reader.google.com/jedahan
