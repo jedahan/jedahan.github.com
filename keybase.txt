@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/jedahan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jedahan.com
+  * I am jedahan (https://keybase.io/jedahan) on keybase.
+  * I have a public key with fingerprint 4EAA C83C 423C 57A5 47F8  2683 4819 8564 E673 4396
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "4eaac83c423c57a547f8268348198564e6734396",
+            "host": "keybase.io",
+            "key_id": "48198564e6734396",
+            "uid": "70bf28f9c6801ef4fd50939cba9e8b00",
+            "username": "jedahan"
+        },
+        "service": {
+            "hostname": "jedahan.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1401218349,
+    "expire_in": 157680000,
+    "prev": "0ed14f31dc02ef2541bbdc318025fb99960c548ddcb634d8cfd54a3c8d2ca171",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.17
+Comment: https://keybase.io/crypto
+
+yMHoAnicZZFdSBRrGMd3tfzYMLwoxUjKSUxz2+b7YzlYhIgZZBihpLDNvPPO7rg6
+s83Orrp7NKwl5ZxzEQYZR8lQqRDKiwo8GSRpGYgmEmEGLRTJ8SsxKOii9B2pi2hu
+hvd5fv///3l4xtISbQ77THlP+fh//j77xMhqyHYq9uFgFJN0uQlzRzE/3PwpquaF
+RsBQNRNzYzQURcBTgCYpwHAiQ3MKT7I8RfOEwDMsDVmOoimBxZyYTw9aCmQjiUHo
+UnVUQw+PKls+v/OhzQaHSwrJKwJgeZyACq3IDC5QApBEAfISjltgEBqaWA8RXQtl
+0SdqWLMTQ8WwClAxupn8K+ACej1SBgzd1IFehxo+0wy4LZ3ZFLDABih5flh4JFWT
+0dZIEIZGUNU1zE0gEpiq5UnQOEESaGXBicHGgGpAj2oRDIdGRp8VA8PIEocyQSsU
+IQOchArJ0IQkyYAieJxkFEkQBBYHDM3LMpBYipZ5gHalRQrwMglEgiNQfhCe03TM
+TaExRS+yDKpeTTRDBsSan4zUbLHZHbakrQnW3WyO1PSf14TxFNujzy8yug/vcKZe
+eGayrgfx5eT/M7Mv31qGVXeDS2dXJqdW1p6P/8H1hHzJVyJZJVjVgUt/T4SHz/yZ
+N3exoGJhoC23rDVJq35VtH+fERuenuocyX97v/bN4Fj9w/z5xd7v13feG43kjJcV
+vB9aogpjhWJRf1/3YFnksSuuC3+l+BYnu1qwI2PtyTcTFl7vdpyPH0s/1NJ1/EZG
+27VUr3/uXf/6ROHJgfWc06Vrmbs80WJ7h1naHismP36tmx2t4SInam09d0rnb5d0
+Ps2Jtib4OXHbHKioTOrIW55Nc++ZhsUvG6XsfxqG9874h3qvfqrOFCtX57MSv3zb
+Hss9+u/SBkvmEJs=
+=E63g
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jedahan
+
+==================================================================
+
