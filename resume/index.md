@@ -5,7 +5,7 @@ layout: resume
 Jonathan Dahan
 ==============
 
- [jonathan][]@[jedahan.com][] | [http://github.com/jedahan](http://github.com/jedahan) | [@jedahan][]
+ [jonathan][]@[jedahan.com][] | [jonathan.is][] | [github.com/jedahan][] | [@jedahan][]
 
 about
 -----
@@ -15,7 +15,7 @@ work
 ----
  * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Now
 
-     Develop in-gallery interactives (virtual touchbook, twitter plain or fancy interactive), html+coffeescript+css based. Build collections api in node.js for external use (see Iconoclashes). Manage 3D hackathon with two dozen artists. Setup projector visualisations for LIARS concert in dendur.
+     Develop in-gallery interactives (virtual touchbook, twitter plain or fancy interactive), html+coffeescript+css based. Build collections api in node.js for external use (see Iconoclashes). Manage 3D hackathon with two dozen artists. Setup projector visualisations for LIARS concert in dendur. Work with bluetooth beacons for wayfinding in galleries. Develop open source image recognition software.
 
  * __Bit Wizard__ [ Bug Labs ][] | Spring 2011 - Fall 2011
 
@@ -45,7 +45,7 @@ work
 skills
 ------
 
- * __languages__ Java, C++, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
+ * __languages__ Java, C++/OpenFrameworks, C, XHTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
  * __software__ Linux Administration, Arduino, Processing, OSC, MIDI, git
  * __hardware__ Arduino, Android, Stepper Motors, Nintendo Wii, monome controllers
 
@@ -114,3 +114,6 @@ education
 [ Metropolitan Museum of Art ]: http://metmuseum.org
 
 [ Sigma Nu ]: http://www.sigmanu.org
+
+[ jonathan.is ]: http://jonathan.is
+[ github.com/jedahan ]: https://github.com/jedahan
