@@ -25,8 +25,8 @@ Creations and Consumptions
 
 Endeavours
 ----------
-- foundation of a [Island Labs][labs], a [long island][li] [hackerspace][]
-- maintenance an [unofficial repository][summer] for the [Exherbo][] [Linux][] distribution
+- founded [Island Labs][labs], a [long island][li] [hackerspace][]
+- maintained an [unofficial repository][summer] for the [Exherbo][] [Linux][] distribution
 
 Qualifications
 --------------
