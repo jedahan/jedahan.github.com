@@ -17,11 +17,10 @@ Words
 
 Creations and Consumptions
 --------------------------
+- [code][github] and [curios][reddit]
 - [thoughts][twitter] and [theses](/blog)
 - [travels][foursquare] and [transitions][meetup]
-- [programming][github] and [software][ohloh]
 - [oscillations][soundcloud], [static visuals][flickr], and [motion pictures][youtube]
-- [curios][reddit]
 
 Endeavours
 ----------
