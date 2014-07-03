@@ -24,8 +24,8 @@ Creations and Consumptions
 
 Endeavours
 ----------
-- founded [Island Labs][labs], a [long island][li] [hackerspace][]
-- maintained an [unofficial repository][summer] for the [Exherbo][] [Linux][] distribution
+- founded [Island Labs][labs], a [long island][] [hackerspace][]
+- maintained an unofficial package repository for [Exherbo Linux][]
 
 Qualifications
 --------------
@@ -43,17 +43,12 @@ Qualifications
 [github]: http://github.com/jedahan
 [hackerspace]: http://en.wikipedia.org/HackerSpace
 [labs]: http://islandlabs.org
-[linkedin]: http://www.linkedin.com/in/jedahan
-[linux]: http://en.wikipedia.org/Linux
-[li]: https://www.google.com/maps/place/Long+Island/
+[long island]: https://www.google.com/maps/place/Long+Island/
 [me]: images/me.jpg
 [bk]: https://www.google.com/maps/@40.66042,-73.986312,13z
-[ohloh]: http://ohloh.net/accounts/jedahan/stacks
-[reader]: http://reader.google.com/jedahan
 [reddit]: http://www.reddit.com/user/jedahan/
 [soundcloud]: http://soundcloud.com/jedahan
 [tumblr]: http://jedahan.tumblr.com
 [meetup]: http://www.meetup.com/members/14261502/
-[summer]: http://git.exherbo.org/summer/repositories/jedahan/index.html
 [twitter]: http://twitter.com/jedahan
 [youtube]: http://youtube.com/jedahan
