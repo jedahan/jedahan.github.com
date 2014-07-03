@@ -20,9 +20,8 @@ Creations and Consumptions
 - [thoughts][twitter] and [theses](/blog)
 - [travels][foursquare] and [transitions][meetup]
 - [programming][github] and [software][ohloh]
-- [oscillations][soundcloud], [static visuals][flickr] and [motion pictures][youtube]
-- [curios][reddit] and [antiquities][reader]
-- [allies][facebook] and [associates][linkedin]
+- [oscillations][soundcloud], [static visuals][flickr], and [motion pictures][youtube]
+- [curios][reddit]
 
 Endeavours
 ----------
