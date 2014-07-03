@@ -45,7 +45,7 @@ Qualifications
 [labs]: http://islandlabs.org
 [long island]: https://www.google.com/maps/place/Long+Island/
 [me]: images/me.jpg
-[brooklyn]: http://www.openstreetmap.org/node/158865684
+[brooklyn]: https://www.openstreetmap.org/node/2946313743#map=14/40.6604/-73.9946&layers=T
 [reddit]: http://www.reddit.com/user/jedahan/
 [soundcloud]: http://soundcloud.com/jedahan
 [tumblr]: http://jedahan.tumblr.com
