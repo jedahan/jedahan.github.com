@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][bk]
+a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][]
 
 Projects
 --------
@@ -45,7 +45,7 @@ Qualifications
 [labs]: http://islandlabs.org
 [long island]: https://www.google.com/maps/place/Long+Island/
 [me]: images/me.jpg
-[bk]: https://www.google.com/maps/@40.66042,-73.986312,13z
+[brooklyn]: http://www.openstreetmap.org/node/158865684
 [reddit]: http://www.reddit.com/user/jedahan/
 [soundcloud]: http://soundcloud.com/jedahan
 [tumblr]: http://jedahan.tumblr.com
