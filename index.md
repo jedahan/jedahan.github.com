@@ -10,6 +10,10 @@ Projects
 
 Words
 -----
+#### [{{ site.posts[0].title }}]({{ site.posts[0].url}})
+{{ site.posts[0].content }}
+
+earlier words
 {% for post in site.posts limit: 7 %}
 - [{{post.title}}]({{post.url}})
 {% endfor %}
