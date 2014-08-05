@@ -3,11 +3,17 @@ layout: post
 title: Hackerschool, 2 weeks later
 ---
 
-What ive worked on so far
+The first two weeks of hackerschool was way better than I expected.
+Some of the highlights include learning how to use the [BeagleBoneBlack PRU][] with Dana, building a [wifi probe request sniffer]() using [libtins][], and finishing the first week of [stanford networking course CS144][].
 
+Inspired by [Ambers post][], I'm going to retackle this NES sniffing project. My plan is as follows:
+
+  * Get the beaglebone PRU to trigger interrupts on the phase2 pin of the nes
+  * Read the LSB of the data line in that interrupt
+  * Write 512 bits to shared memory
+  * Do this a few times
+  * Find longest common substring and try to guess a 'header' to know when we should actually read
+
+Small things that happened in the last week
   * d3.js graph to add nodes and links to visualize a mesh network
-  * Finishing unit 2 of the stanford networking course
-  * Built a wifi probe request sniffer with libtins, need to add some features
-  * learning beaglebone PRU basics to blink an LED with Dana
-    * which will eventually help me sniff an NES to identify cartridges
-    Inspired by [Ambers post](http://subsymbol.org/journal/hacker-school-monday-august-4th-2014.html), I will revisit this asap. Time to figure out if there is a magic header I can look for when starting the NES, and if I can checksum the LSB of the data line to consistently identify cartridges.
+  * getting [cjdns][] up and running on OSX & a beaglebone with the help of [PSST!][] and [GRRR!][]
