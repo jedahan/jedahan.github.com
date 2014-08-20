@@ -8,12 +8,10 @@ Projects
 --------
 - see [http://jonathan.is](http://jonathan.is) for recent projects
 
-Words
------
-#### [{{ site.posts[0].title }}]({{ site.posts[0].url}})
+## [{{ site.posts[0].title }}]({{ site.posts[0].url}})
 {{ site.posts[0].content }}
 
-earlier words
+### earlier words
 {% for post in site.posts limit: 7 %}
 - [{{post.title}}]({{post.url}})
 {% endfor %}
