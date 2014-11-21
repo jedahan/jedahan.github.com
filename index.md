@@ -4,9 +4,7 @@ title: Home
 ---
 a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][]
 
-Projects
---------
-- see [http://jonathan.is](http://jonathan.is) for recent projects
+I am a programmer who likes to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally uncomfortable coding in C, C++, Rust, Javascript, Coffeescript, Python, Piet, Basic, Hypercard, and Bash.
 
 ## [{{ site.posts[0].title }}]({{ site.posts[0].url}})
 {{ site.posts[0].content }}
@@ -19,15 +17,19 @@ Projects
 
 Creations and Consumptions
 --------------------------
-- [code][github] and [curios][reddit]
-- [thoughts][twitter] and [theses](/blog)
-- [travels][foursquare] and [transitions][meetup]
+- [code][github]
+- [short thoughts][twitter] and [slightly longer thoughts](/blog)
+- [where i've been][foursquare]
 - [oscillations][soundcloud], [static visuals][flickr], and [motion pictures][youtube]
 
 Endeavours
 ----------
+- teaching at [parsons][]
+- did not graduate [hackerschool][] :-P
+- attended the [school for poetic computation][]: first class
+- taught at the [school for poetic computation][]
 - founded [Island Labs][labs], a [long island][] [hackerspace][]
-- maintained an unofficial package repository for [exherbo][] linux
+- maintain an unofficial package repository for [exherbo][] linux
 
 Qualifications
 --------------
