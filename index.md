@@ -56,3 +56,7 @@ Qualifications
 [meetup]: http://www.meetup.com/members/14261502/
 [twitter]: http://twitter.com/jedahan
 [youtube]: http://youtube.com/jedahan
+[echo program]: piet.png
+[parsons]: http://jedahan.github.io/pucd2035d
+[hackerschool]: http://hackerschool.com
+[school for poetic computation]: http://sfpc.io
