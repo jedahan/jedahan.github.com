@@ -4,7 +4,7 @@ title: Home
 ---
 a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][]
 
-I am a programmer who likes to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally uncomfortable coding in C, C++, Rust, Javascript, Coffeescript, Python, Piet, Basic, Hypercard, and Bash.
+I am a programmer who likes to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally uncomfortable coding in C, C++, Rust, Javascript, Coffeescript, Python, Piet, Basic, Hypercard, and Bash. I painted a simple [echo program][] and could very easily see myself holed up for the winter just with canvas and wine.
 
 ## [{{ site.posts[0].title }}]({{ site.posts[0].url}})
 {{ site.posts[0].content }}
