@@ -10,8 +10,10 @@ I am a programmer who likes to connect random inputs and outputs to see what peo
 {{ site.posts[0].excerpt }}
 
 [read full article]({{ site.posts[0].url }}) or other from the [blog](/blog), like...
-{% for post in site.posts limit: 3 %}
+{% for post in site.posts limit: 4 %}
+{% if post.url != site.posts[0].url %}
 - [{{post.title}}]({{post.url}})
+{% endif %}
 {% endfor %}
 
 Creations and Consumptions
