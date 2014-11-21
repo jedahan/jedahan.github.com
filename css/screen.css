@@ -89,13 +89,7 @@ li p {
 
 body{
   background: #cf32ff;
-  background: -moz-linear-gradient(top, #cf32ff 0%, #2989d8 50%, #efff89 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cf32ff), color-stop(50%,#2989d8), color-stop(100%,#efff89));
-  background: -webkit-linear-gradient(top, #cf32ff 0%,#2989d8 50%,#efff89 100%);
-  background: -o-linear-gradient(top, #cf32ff 0%,#2989d8 50%,#efff89 100%);
-  background: -ms-linear-gradient(top, #cf32ff 0%,#2989d8 50%,#efff89 100%);
-  background: linear-gradient(to bottom, #cf32ff 0%,#2989d8 50%,#efff89 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cf32ff', endColorstr='#efff89',GradientType=0 );
+  background: linear-gradient(to top, #cf32ff 0%,#2989d8 50%,#efff89 100%);
 }
 
 section {
