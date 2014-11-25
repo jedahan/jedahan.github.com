@@ -6,6 +6,8 @@ a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds
 
 I am a programmer who likes to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally uncomfortable coding in C, C++, Rust, Javascript, Coffeescript, Python, Piet, Basic, Hypercard, and Bash. I painted a simple [echo program][] and could very easily see myself holed up for the winter just with canvas and wine.
 
+Some communities I'm a part of and love include [the school for poetic computation](sfpc.io), [hacker school](hackerschool.com), [arthackday](arthackday.net), [the medialab at the met](http://www.metmuseum.org/about-the-museum/museum-departments/office-of-the-director/digital-media-department/digital-underground/posts/2013/introducing-the-media-lab), [itp camp](http://itp.nyu.edu/camp2014/). If you are interested in chatting about any of these, please reach out!
+
 ## [{{ site.posts[0].title }}]({{ site.posts[0].url}}) preview
 {{ site.posts[0].excerpt }}
 
