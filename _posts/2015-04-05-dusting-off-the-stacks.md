@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackerschool, 2 weeks later
+title: Dusting off the Stacks
 ---
 
 This is a WIP talk for Bard Graduate Center, for the work I did during [The Interface Experience]() show.
@@ -27,11 +27,15 @@ And, he didn't know it at the time, but ... I had no idea if I could program eve
 But the thought of being paid to program something in hypercard, just made me giddy with excitement. So I responded with an 'oh absolutely we can get all of this done, no problem'. So I must  apologize to Kimon for that half-truth, and thank him for trusting me enough to follow through with it.
 If he had asked me the same thing just three months earlier, I don't think I would have even tried
 What happened in those three months? Well, mainly hackerschool. Without going into too much details, while in hackerschool I learned to a bit more fearless, and also how to ask for help.
+
 It also helped that the timeline was, well, at Museum-speed. Pretty fast for museum speed, but that still meant we were in first gear. Maybe a 4-cylinder car instead of a scooter, but that left plenty of time to come up with alternate suggestions on how we could go ahead with only some native apps and still execute on his vision for the focus gallery. Cuz there was still no way 5 applications, on 5 platforms (3 of them completely obsolete), could be designed, programmed, tested, installed, and survive the first 15 minutes of exhibition.
 The thing was...it looked FUN.
+
 And maybe I was feeling cocky because I messed with an NES while working for Don Undeen in the Media Lab  The Met. 
 And with a ton of help from everyone, over the next couple of months, we actually managed to build everything I thought was impossible at the beginning.
+
 So...how?
+
 Well, there's a few pieces of what needed to happen - I'm going to skip over a lot of the awesome work we did with all the students in his class and focus on two thing: the technical setup and the research aspect. And I am only going to focus on the three earliest machines - the Commodore 64, the Mac Plus, and the Palm Pilot. If you want to talk about programming on the iPad and kinect - which has some pretty non-standard and interesting tech stacks, feel free to ask during the QA or afterwards.
 
 ###    Tech
