@@ -119,7 +119,10 @@ education
 [ SUNY Stonybrook Research Foundation ]: http://www.stonybrook.edu/research
 [ Chyron ]: http://www.chyron.com
 [ Nu Horizons ]: http://www.nuhorizons.com
-[ Metropolitan Museum of Art ]: http://metmuseum.org
+[ Metropolitan Museum of Art ]: http://www.metmuseum.org/about-the-museum/museum-departments/office-of-the-director/digital-media-department/medialab
+[ Lab@Rockwell ]: http://www.rockwellgroup.com/
+[ Fake Love ]: http://www.fakelove.tv/work/exhibit-growth
+[ Bard Graduate Center ]: http://www.bgc.bard.edu/gallery/gallery-at-bgc/the-interface-experience.html
 
 [ Sigma Nu ]: http://www.sigmanu.org
 
