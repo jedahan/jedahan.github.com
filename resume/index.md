@@ -91,6 +91,8 @@ education
 [@jedahan]: http://twitter.com/jedahan
 [jonathan]: mailto:jonathan@jedahan.com
 [jedahan.com]: http://jedahan.com
+[jonathan.is]: http://jonathan.is
+[github.com/jedahan]: http://github.com/jedahan.com
 
 [ Image_Categorizer ]: http://example.com
 [ Polyplayer Synth ]: http://example.com
