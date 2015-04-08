@@ -13,7 +13,15 @@ about
 
 work
 ----
- * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Now
+ * __Rogue Developer__ [ Bard Graduate Center ][] | Winter 2014 - Spring 2015
+
+    Created interactives for five different platforms, illustrating the differences in HCI over 30 years. Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect. Installed in gallery to be up for 3 months, open to the public.
+
+ * __Rogue Developer__ [ Lab@Rockwell, Fake Love ][] | Winter 2014 - Spring 2015
+
+    Built canvas-based frontend for malls to create digital signage for lab@rockwell. For fakelove, created backend api and email generation and queueing system to reach out to any person who interacted with an iPad frontend.
+
+ * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Summer 2014
 
      Develop in-gallery interactives (virtual touchbook, twitter plain or fancy interactive), html+coffeescript+css based. Build collections api in node.js for external use (see Iconoclashes). Manage 3D hackathon with two dozen artists. Setup projector visualisations for LIARS concert in dendur. Work with bluetooth beacons for wayfinding in galleries. Develop open source image recognition software.
 
