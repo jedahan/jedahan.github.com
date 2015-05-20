@@ -39,7 +39,7 @@ class: center, middle
 # ⌫ ···̣̣̣̣                         ⏎
 #       ⠞                       
 #  ウー                       
-#
+# 
 #          TT
 ---
 .watermark[⌫ ⏎]
@@ -52,8 +52,7 @@ class: center, middle
 ---
 .watermark[⌫ ⏎]
 # i can only copy code
-// screenshot of many forks
-// screen shot of littl
+
 ---
 .watermark[⌫ ⏎]
 # i am not an artist
