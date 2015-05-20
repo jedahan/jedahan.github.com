@@ -17,35 +17,59 @@ Getting into the nitty gritty of what technology we used, and what we learned ab
 
 ###   Bio
 
-I like to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally  comfortable coding in C, C++, Rust, Javascript, Coffeescript, Python,  Piet, Basic, Hypercard, and Bash. I painted a simple echo program and  could very easily see myself holed up for the winter just with canvas  and wine.
+// [https://jonathan.is]() [https://jedahan.com]()
+
+I like to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally  comfortable coding in C, C++, Rust, Javascript, Coffeescript, Python,  Piet, Basic, Hypercard, and Bash. I painted a simple echo program and could very easily see myself holed up for the winter just with canvas  and wine.
 
 ###    Intro
 
 So, when Kimon messaged me about the project, I kinda thought he was crazy.
+
 And, he didn't know it at the time, but ... I had no idea if I could program even half of the devices he was asking about.
+
 ( In fact, I was pretty sure there was no way I'd be able to write something for the Palm Pilot )
-But the thought of being paid to program something in hypercard, just made me giddy with excitement. So I responded with an 'oh absolutely we can get all of this done, no problem'. So I must  apologize to Kimon for that half-truth, and thank him for trusting me enough to follow through with it.
-If he had asked me the same thing just three months earlier, I don't think I would have even tried
-What happened in those three months? Well, mainly hackerschool. Without going into too much details, while in hackerschool I learned to a bit more fearless, and also how to ask for help.
+
+But the thought of being paid to program something in hypercard, just made me giddy with excitement. So I responded with an 'oh absolutely we can get all of this done, no problem'. 
+
+First of all, I must apologize to Kimon for that half-truth, and thank him for trusting me enough to follow through with it.
+
+If he had asked me the same thing just three months earlier, I don't think I would have even tried - but having just participated in [Hacker School](https://hackerschool.com) gave me the confidence and support needed to be fearless in diving deep and asking for help.
 
 It also helped that the timeline was, well, at Museum-speed. Pretty fast for museum speed, but that still meant we were in first gear. Maybe a 4-cylinder car instead of a scooter, but that left plenty of time to come up with alternate suggestions on how we could go ahead with only some native apps and still execute on his vision for the focus gallery. Cuz there was still no way 5 applications, on 5 platforms (3 of them completely obsolete), could be designed, programmed, tested, installed, and survive the first 15 minutes of exhibition.
-The thing was...it looked FUN.
 
-And maybe I was feeling cocky because I messed with an NES while working for Don Undeen in the Media Lab  The Met. 
+The thing was...despite all these problems...it looked FUN.
+
+Also, maybe I was feeling cocky because I messed with a NES while working for Don Undeen in the Media Lab at The Met. There was something compelling about working on these old computers, but I wasn't sure what it was yet.
+
 And with a ton of help from everyone, over the next couple of months, we actually managed to build everything I thought was impossible at the beginning.
 
 So...how?
 
-Well, there's a few pieces of what needed to happen - I'm going to skip over a lot of the awesome work we did with all the students in his class and focus on two thing: the technical setup and the research aspect. And I am only going to focus on the three earliest machines - the Commodore 64, the Mac Plus, and the Palm Pilot. If you want to talk about programming on the iPad and kinect - which has some pretty non-standard and interesting tech stacks, feel free to ask during the QA or afterwards.
+Well, there's a few pieces of what needed to happen - I'm going to skip over a lot of the awesome work we did with all the students in his class and start with the technical setup, move on to the research aspect, then finish with the similarities and differences I found working on a set of systems over 30 years apart - almost 3/4 of the history of personal computing.
+Though i'll talk about all five machines, my focus will be primarily on the three earliest - the Commodore 64, the Mac Plus, and the Palm Pilot. If you want to talk more in depth about the iPad or kinect, feel free to ask during the QA or afterwards
 
-###    Tech
+### Tech
 
-In order to develop comfortably, I needed a repeatable,  understandable way to work off my laptop for all these systems. The  general idea was to use emulators to do local development, to understand  the languages and limitations and then to transfer them to real  hardware for testing. What did this require?
-Emulators Emulators Emulators
-vice - commodore 64 
+In order to develop comfortably, I needed a repeatable, understandable way to work off my laptop for all these systems. The  general idea was to use emulators to do local development, to understand  the languages and limitations and then to transfer them to real  hardware for testing. What did this require?
+
+#### Emulators Emulators Emulators
+
+[!picture of vice]() // 10 PRINT CHR$(205.5+RND()): 20 GOTO 10
+
+The commodore 64 was probably the easiest machine to emulate and get working with right away. Which is why I started with that. Well there were a lot of false starts, learning about the character sets
+
+[!screenshot of mini vmac]() // open sore---source (drawing issues)
+
 mini vmac - which on linux had a drawing issue. It's ok though - its open source. Except the source is distributed as a mini vmac application archive. Which means you need to inception your mini vmac source to modify it. Also, its not under version control. I managed to rewrite a line to fix the draw routine, and now could comfortably run hypercard on mini vmac. 
+
+[!phem for android]() // it even glows blue when you press the power button
+
 phem - the best emulator is actually for....android! its great!
-Software Software Software
+
+iOS no need to emulate, kinect no need (though looking at MS sdk vs open source...open source had 100x the example code)
+
+#### Software Software Software
+
 Some software is on archive.org. Some are not. For the c64, it was easy to grab software. For the Mac Plus, it was considerably harder. Apple USED TO (as in, up to a month into the project) host software on... http://apple.com/oldsoftware but then they took that site down without warning. Also, in typical Apple fashion, they have been agressively pruning all mirrors and copies of their software off http/ftp servers on the web. So, whats someone to do?
 Join IRC :)
 Even then, there was some piece that just couldn't be found - like hypercard 2.1. So after buying it on ebay, popping it into my computer and realizing WTF apple was the only company to use variable speed hard drives instead of constant speed hard drives meant I was SoL...until I found the Kyroflux.
@@ -56,7 +80,7 @@ Came with a full sd card of games and software which we totally, definitely, ref
 the mac sd card reader
 People People People
 
-###    Stuff I learned
+#### Stuff I learned
 
 The older the software, the EASIER it was to understand. There wasn't much it could do. The Palm Pilot SDK, was a dozen .c and .h files. Compared to say, the iPhone (which has tens of thousands of .c files, many of which you are not allowed to view), or even a modern javascript stack - the number of possible function calls was TINY.
 Each system had its own metaphors and terminology to learn. This is nothing new, but it was refreshing to see what ideas have survived - like hypertalk's event system which I can see mirrored in the way clicks bubble up in javascript.
