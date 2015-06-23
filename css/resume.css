@@ -6,5 +6,5 @@ strong{ display:inline-block;}
 
 #work + ul li p:first-child { text-align:right; color:grey}
 #work + ul li p:first-child strong{ float:left; color:#333 }
-#work + ul li p:last-child { padding-bottom: 14px }
+ul li p:last-child { padding-bottom: 14px }
 ul li p:before { content: ' '; }
