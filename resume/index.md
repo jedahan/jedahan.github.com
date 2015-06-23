@@ -17,13 +17,16 @@ work
 
     Created interactives for five different platforms, illustrating the differences in HCI over 30 years. Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect. Installed in gallery to be up for 3 months, open to the public.
 
+
  * __Rogue Developer__ [ Lab@Rockwell ][], [ Fake Love ][] | Winter 2014 - Spring 2015
 
     Built canvas-based frontend for malls to create digital signage for lab@rockwell. For fakelove, created backend api and email generation and queueing system to reach out to any person who interacted with an iPad frontend.
 
+
  * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Summer 2014
 
      Develop in-gallery interactives (virtual touchbook, twitter plain or fancy interactive), html+coffeescript+css based. Build collections api in node.js for external use (see Iconoclashes). Manage 3D hackathon with two dozen artists. Setup projector visualisations for LIARS concert in dendur. Work with bluetooth beacons for wayfinding in galleries. Develop open source image recognition software.
+
 
  * __Bit Wizard__ [ Bug Labs ][] | Spring 2011 - Fall 2011
 
@@ -33,22 +36,27 @@ work
 
      Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
 
+
  * __Web Developer__ [ Cold Spring Harbor Labs ][] | Fall 2010-2011
 
      Redesign and implement ruby-on-rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
+
 
 
  * __Cluster Sysadmin__ [ SUNY Stonybrook Research Foundation ][] | 2007-2011
 
      Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
 
+
  * __Web Developer__ [ Chyron ][] | Summer 2008
 
      QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
 
+
  * __Developer__ [ Nu Horizons ][] | Summers 2003-2005
 
      Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
+
 
 skills
 ------
