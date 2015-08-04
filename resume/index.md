@@ -25,6 +25,9 @@ work
 
     Built canvas-based frontend for malls to create digital signage for lab@rockwell. For fakelove, created backend api and email generation and queueing system to reach out to any person who interacted with an iPad frontend.
 
+ * __Teacher__ [school for poetic computation][] | Spring 2013, 2014
+
+   Taught classes on the raspberry pi, networking, apis, the commandline, and glitch art.
 
  * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Summer 2014
 
