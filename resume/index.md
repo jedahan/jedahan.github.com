@@ -63,6 +63,14 @@ work
 
      Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
 
+communities
+-----------
+ * --hacker school-- [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+
+ * [school for poetic computation][] student and teacher
+  * programmed and painted a [piet][] program whose source is just a bitmap
+  * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
+  * made a [light drawing bot][]
 
 skills
 ------
