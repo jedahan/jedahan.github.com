@@ -17,7 +17,7 @@ work
 
     Created interactives for five different platforms, illustrating the differences in HCI over 30 years. Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect. Installed in gallery to be up for 3 months, open to the public.
 
- * __Adjunct Professor__ [ Parsons ][] | Fall 2014
+ * __Adjunct Professor__ [ Parsons / The New School ][] | Fall 2014
 
     Designed and taught a course for incoming design students on programming. We covered topics such as binary numbers, data structures, file manipulation, networking, servers, drawing and interaction using p5js, nodejs, and arduino.
 
@@ -27,7 +27,7 @@ work
 
  * __Teacher__ [school for poetic computation][] | Spring 2013, 2014
 
-   Taught classes on the raspberry pi, networking, apis, the commandline, and glitch art.
+    Taught classes on the raspberry pi, networking, apis, the commandline, and glitch art.
 
  * __Media Technology Developer__ [ Metropolitan Museum of Art ][] | Spring 2012 - Summer 2014
 
@@ -149,6 +149,14 @@ education
 [ Lab@Rockwell ]: http://www.rockwellgroup.com/
 [ Fake Love ]: http://www.fakelove.tv/work/exhibit-growth
 [ Bard Graduate Center ]: http://www.bgc.bard.edu/gallery/gallery-at-bgc/the-interface-experience.html
+[ school for poetic computation ]: http://sfpc.io
+[ Parsons / The New School ]: http://www.newschool.edu/
+
+[recurse center]: http://recurse.com
+[school for poetic computation]: http://sfpc.io
+[piet]: http://www.dangermouse.net/esoteric/piet.html
+[painting]: http://jonathan.is/echo-canvas
+[network sonifier]: https://github.com/jedahan/pagesounds
 
 [ Sigma Nu ]: http://www.sigmanu.org
 
