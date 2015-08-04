@@ -65,12 +65,13 @@ work
 
 communities
 -----------
- * --hacker school-- [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+
+ * ~~hacker school~~ [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
 
  * [school for poetic computation][] student and teacher
   * programmed and painted a [piet][] program whose source is just a bitmap
   * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
-  * made a [light drawing bot][]
+  * made a collaborative light drawing robot out of an old pen plotter
 
 skills
 ------
