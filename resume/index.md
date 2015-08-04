@@ -158,6 +158,7 @@ education
 [piet]: http://www.dangermouse.net/esoteric/piet.html
 [painting]: http://jonathan.is/echo-canvas
 [network sonifier]: https://github.com/jedahan/pagesounds
+[ 0-Player Famicom ]: https://hackaday.io/project/7002-autones-zero-player-nesfamicom
 
 [ Sigma Nu ]: http://www.sigmanu.org
 
