@@ -73,6 +73,8 @@ communities
   * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
   * made a collaborative light drawing robot out of an old pen plotter
 
+
+
 skills
 ------
 
