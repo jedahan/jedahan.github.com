@@ -17,6 +17,9 @@ work
 
     Created interactives for five different platforms, illustrating the differences in HCI over 30 years. Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect. Installed in gallery to be up for 3 months, open to the public.
 
+ * __Adjunct Professor__ [ Parsons ][] | Fall 2014
+
+    Designed and taught a course for incoming design students on programming. We covered topics such as binary numbers, data structures, file manipulation, networking, servers, drawing and interaction using p5js, nodejs, and arduino.
 
  * __Rogue Developer__ [ Lab@Rockwell ][], [ Fake Love ][] | Winter 2014 - Spring 2015
 
