@@ -83,7 +83,7 @@ skills
 projects
 --------
 
- * __[ 0-Player Famicom][]__ Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
+ * __[ 0-Player Famicom ][]__ Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
 
  * __[ BadgeAssassin ][]__ Built a game of [ assassin ][ BadgeAssassin ] at [ CCC ][ Chaos Communications Camp ] using the [ camp badges ][ r0ket ] as local radar. Confused all nonparticipants.
 
