@@ -3,14 +3,10 @@ layout: default
 title: Home
 ---
 
-# Hi Engadget!
+## hello internet
+Hello internet! If you are interested in my most recent work for Bard Graduate Center (programming old computers), check out [the symposium talk i gave](https://www.youtube.com/watch?v=N6lX-Gxo3uM), or [my latest blog post](/blog).
 
-Hi Engadget! If you are interested in my most recent work for Bard Graduate Center (programming old computers), check out [my latest blog post](/blog).
-
-I am also going to be speaking during their symposium which will be livestreamed. Message me [@jedahan](twitter.com/jedahan) or email and i'll let you know when
-the link is up.
-
-# /Hi Engadget
+## /hello internet
 
 a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][]
 
