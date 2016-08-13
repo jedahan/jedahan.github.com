@@ -147,6 +147,7 @@ education
 
 [ http://github.com/jedahan ]: http://github.com/jedahan
 
+[ Etsy ]: https://etsy.com
 [ BUG Labs ]: http://buglabs.net
 [ Cold Spring Harbor Labs ]: http://www.cshl.edu
 [ SUNY Stonybrook Research Foundation ]: http://www.stonybrook.edu/research
