@@ -1,6 +1,8 @@
-# License #
+http://jedahan.com
 
-The following directories and their contents are copyright 2011-2014 [Jonathan Dahan](mailto:jonathan@jedahan.com)
+# License
+
+The following directories and their contents are copyright 2011-2016 [Jonathan Dahan](mailto:jonathan@jedahan.com)
 
   * _posts/
   * images/ (except rss.png)

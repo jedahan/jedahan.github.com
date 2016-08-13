@@ -13,6 +13,10 @@ about
 
 work
 ----
+ * __Software Engineer__ [ Etsy ][] | Winter 2016 -
+
+     Full-stack software engineer for Etsy.com payments team. Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api.
+
  * __Rogue Developer__ [ Bard Graduate Center ][] | Winter 2014 - Spring 2015
 
     Created interactives for five different platforms, illustrating the differences in HCI over 30 years. Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect. Installed in gallery to be up for 3 months, open to the public.
@@ -21,7 +25,7 @@ work
 
     Designed and taught a course for incoming design students on programming. We covered topics such as binary numbers, data structures, file manipulation, networking, servers, drawing and interaction using p5js, nodejs, and arduino.
 
- * __Rogue Developer__ [ Lab@Rockwell ][], [ Fake Love ][] | Winter 2014 - Spring 2015
+ * __Rogue Developer__ [ Lab@Rockwell ][], [ Fake Love ][] | Winter 2014 - Summer 2015
 
     Built canvas-based frontend for malls to create digital signage for lab@rockwell. For fakelove, created backend api and email generation and queueing system to reach out to any person who interacted with an iPad frontend.
 
