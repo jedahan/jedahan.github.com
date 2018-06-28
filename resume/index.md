@@ -13,6 +13,14 @@ about
 
 work
 ----
+ * __Technical Consultant__ [ Small Data Industries ][] | Winter 2017 -
+
+     Technical writer and advisor for Small Data Industries. Researched and developed  preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer. Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format.
+
+ * __Fullstack Engineer__ [ Micah Walter Studio ][] | Winter 2017 -
+
+     Full-stack software engineer working on graphql and traditional REST apis for mid-sized museum.
+
  * __Software Engineer__ [ Etsy ][] | Winter 2016 - Fall 2017
 
      Full-stack software engineer for Etsy.com payments team. Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api. Spedup VAT Invoice pdf generation by 40x. Implemented new state during emergency third party outage, allowing us to process over $30 million independently of the outage.
@@ -159,6 +167,8 @@ education
 [ Bard Graduate Center ]: http://www.bgc.bard.edu/gallery/gallery-at-bgc/the-interface-experience.html
 [ school for poetic computation ]: http://sfpc.io
 [ Parsons / The New School ]: http://www.newschool.edu/
+[ Micah Walter Studio ]: https://micahwalter.studio
+[ Small Data Industries ]: https://smalldata.industries
 
 [recurse center]: http://recurse.com
 [school for poetic computation]: http://sfpc.io
