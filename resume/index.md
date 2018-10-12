@@ -82,28 +82,32 @@ work
 communities
 -----------
 
- * [NYC Resistor][] member, teacher, where I built out [ Baculus ][], working on CNC milling/machining and repair.
+* [ NYC Mesh ][] member, node operator, developer. Work on security page, outreach and installs.
 
- * ~~hacker school~~ [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+* [ NYC Resistor ][] member, teacher, where I built out [ Baculus ][], working on CNC milling/machining and repair.
 
- * [school for poetic computation][] student and teacher
+* ~~hacker school~~ [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+
+* [school for poetic computation][] student and teacher
   * programmed and painted a [piet][] program whose source is just a bitmap
   * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
   * made a collaborative light drawing robot out of an old pen plotter
 
- * Founded [ Island Labs ][] hackerspace, Fall 2008
+* Founded [ Island Labs ][] hackerspace, Fall 2008
 
- * President of the [ Linux Users Group at Stony Brook ][], 2008
+* President of the [ Linux Users Group at Stony Brook ][], 2008
 
 skills
 ------
 
- * __languages__ Java, C++/OpenFrameworks, C, HTML+CSS, Bash, Ruby, Python, CoffeeScript, JavaScript
- * __software__ Linux Administration, Arduino, Processing, OSC, MIDI, git
- * __hardware__ Arduino, Android, Beaglebone Black, NES/Famicom
+ * __languages__ Rust, JavaScript, Shell, Java, C++/OpenFrameworks, C, HTML+CSS, Ruby, Python
+ * __software__ Linux Administration, Docker, Arduino, Processing, OSC, MIDI, git
+ * __hardware__ Raspberry Pi, Arduino, Android, Beaglebone Black, NES/Famicom
 
 projects
 --------
+
+ * __[ Hackaday Superconference Badge CTF ][]__ There were a bunch of puzzles on the conference badge and I managed to win the CTF!
 
  * __[ 0-Player Famicom ][]__ Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
 
@@ -120,7 +124,7 @@ projects
 events
 ------
 
- * [ Museum Computer Network ][], [ EyeO Festival ][], [ Museums and the Web ][], [ MLG Providence ][], [ Chaos Communications Camp ][], [ The Last Hope ][], [ The Next Hope ][]
+ * [ Our Networks ][], [ Radical Networks ][], [ Hackaday Superconference ][], [ Museum Computer Network ][], [ EyeO Festival ][], [ Museums and the Web ][], [ MLG Providence ][], [ Chaos Communications Camp ][], [ The Last Hope ][], [ The Next Hope ][]
 
 education
 ---------
@@ -141,6 +145,9 @@ education
 [ BUG Labs ]: http://buglabs.net
 [ BadgeAssassin ]: http://events.ccc.de/camp/2011/wiki/BadgeAssassin
 
+[ Our Networks ]: https://ournetworks.ca
+[ Radical Networks ]: http://radicalnetworks.org
+[ Hackaday Superconference ]: https://hackaday.io/superconference/
 [ Museum Computer Network ]: http://mcn.edu
 [ EyeO Festival ]: http://eyeofestival.com
 [ Museums and the Web ]: http://www.museumsandtheweb.com
@@ -178,6 +185,7 @@ education
 [ 0-Player Famicom ]: https://hackaday.io/project/7002-autones-zero-player-nesfamicom
 [ Baculus ]: https://baculus.co
 [ NYC Resistor ]: https://nycresistor.org
+[ NYC Mesh ]: https://nycmesh.org
 
 [ jonathan.is ]: http://jonathan.is
 [ github.com/jedahan ]: https://github.com/jedahan
