@@ -13,13 +13,17 @@ about
 
 work
 ----
+ * __Founder__ [ Baculus ][] | Winter 2018
+
+     Developed hardware and software for self-repairing disaster recovery communications infrastructure. Built on top of scuttlebutt, IPV6 link-local addressing and offline-first webapps. Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
+
  * __Technical Consultant__ [ Small Data Industries ][] | Winter 2017 -
 
-     Technical writer and advisor for Small Data Industries. Researched and developed  preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer. Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format.
+     Technical writer and advisor for Small Data Industries. Researched and developed preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer. Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format. Developed documentation and code for recreation of Cory Arcangel NES hardware hacks. Architected IPFS
 
- * __Fullstack Engineer__ [ Micah Walter Studio ][] | Winter 2017 -
+ * __Fullstack Engineer__ [ Micah Walter Studio ][] | Winter 2017 - Summer 2018
 
-     Full-stack software engineer working on graphql and traditional REST apis for mid-sized museum.
+     Full-stack software engineer working on graphql and traditional REST apis for mid-sized museums.
 
  * __Software Engineer__ [ Etsy ][] | Winter 2016 - Fall 2017
 
@@ -77,6 +81,8 @@ work
 
 communities
 -----------
+
+ * [NYC Resistor][] member, teacher, where I built out [ Baculus ][], working on CNC milling/machining and repair.
 
  * ~~hacker school~~ [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
 
@@ -176,6 +182,8 @@ education
 [painting]: http://jonathan.is/echo-canvas
 [network sonifier]: https://github.com/jedahan/pagesounds
 [ 0-Player Famicom ]: https://hackaday.io/project/7002-autones-zero-player-nesfamicom
+[ Baculus ]: https://baculus.co
+[ NYC Resistor ]: https://nycresistor.org
 
 [ Sigma Nu ]: http://www.sigmanu.org
 
