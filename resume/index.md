@@ -91,7 +91,9 @@ communities
   * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
   * made a collaborative light drawing robot out of an old pen plotter
 
+ * Founded [ Island Labs ][] hackerspace, Fall 2008
 
+ * President of the [ Linux Users Group at Stony Brook ][], 2008
 
 skills
 ------
@@ -120,16 +122,8 @@ events
 
  * [ Museum Computer Network ][], [ EyeO Festival ][], [ Museums and the Web ][], [ MLG Providence ][], [ Chaos Communications Camp ][], [ The Last Hope ][], [ The Next Hope ][]
 
-organizations
--------------
-
- * Founded [ Island Labs ][] hackerspace, Fall 2008
- * President of the [ Linux Users Group at Stony Brook ][], 2008
- * Brother of [ Sigma Nu ][], Delta Sigma chapter, matriculated 2007
-
 education
 ---------
-
  * Bachelors of Computer Science / Digital Arts from Stony Brook University, Fall 2010
  * Attended Computer Science program at Carnegie Melon University, 2005-2007
 
@@ -184,8 +178,6 @@ education
 [ 0-Player Famicom ]: https://hackaday.io/project/7002-autones-zero-player-nesfamicom
 [ Baculus ]: https://baculus.co
 [ NYC Resistor ]: https://nycresistor.org
-
-[ Sigma Nu ]: http://www.sigmanu.org
 
 [ jonathan.is ]: http://jonathan.is
 [ github.com/jedahan ]: https://github.com/jedahan
