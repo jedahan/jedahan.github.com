@@ -7,9 +7,7 @@ Jonathan Dahan
 
  [jonathan][]@[jedahan.com][] | [jonathan.is][] | [github.com/jedahan][] | [@jedahan][]
 
-about
------
- * Developer who enjoys recombining hardware to create new interactions, building web applications that connect people, improving communication through technology and experimenting with audiovisual art.
+* Developer who enjoys recombining hardware to create new interactions, building web applications that connect people, improving communication through technology and experimenting with audiovisual art.
 
 work
 ----
