@@ -82,7 +82,7 @@ work
 communities
 -----------
 
-* [ NYC Mesh ][] member, node operator, developer. Work on security page, outreach and installs.
+* [ NYC Mesh ][] member, node operator, developer, working on security documentation, outreach and installs.
 
 * [ NYC Resistor ][] member, teacher, where I built out [ Baculus ][], working on CNC milling/machining and repair.
 
@@ -94,9 +94,9 @@ communities
   * made a collaborative light drawing robot out of an old pen plotter
 
 
-* Founded [ Island Labs ][] hackerspace, Fall 2008
+* Founded [ Island Labs ][] hackerspace
 
-* President of the [ Linux Users Group at Stony Brook ][], 2008
+* Presided over the [ Linux Users Group at Stony Brook ][]
 
 skills
 ------
@@ -108,7 +108,7 @@ skills
 projects
 --------
 
- * __[ Superconference CTF ][]__ There were a bunch of puzzles on the hackaday superconference badge and I managed to win the CTF!
+ * __[ Badge CTF ][]__ There were a bunch of puzzles on the hackaday superconference badge and I managed to win the CTF!
 
  * __[ 0-Player Famicom ][]__ Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
 
@@ -187,7 +187,7 @@ education
 [ Baculus ]: https://baculus.co
 [ NYC Resistor ]: https://nycresistor.org
 [ NYC Mesh ]: https://nycmesh.org
-[ Hackaday Superconference Badge CTF ]: https://hackaday.com/2016/11/16/solving-hackadays-crypto-challenge/#more-230676
+[ Badge CTF ]: https://hackaday.com/2016/11/16/solving-hackadays-crypto-challenge/#more-230676
 
 [ jonathan.is ]: http://jonathan.is
 [ github.com/jedahan ]: https://github.com/jedahan
