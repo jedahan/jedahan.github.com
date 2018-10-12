@@ -5,7 +5,7 @@ layout: resume
 Jonathan Dahan
 ==============
 
- [jonathan][]@[jedahan.com][] | [jonathan.is][] | [github.com/jedahan][] | [@jedahan][]
+ [jonathan][]@[jedahan.com][] | [ jonathan.is ][] | [ github.com/jedahan ][] | [ @jedahan ][]
 
 * Developer who enjoys recombining hardware to create new interactions, building web applications that connect people, improving communication through technology and experimenting with audiovisual art.
 
@@ -134,11 +134,12 @@ education
  * Bachelors of Computer Science / Digital Arts from Stony Brook University, Fall 2010
  * Attended Computer Science program at Carnegie Melon University, 2005-2007
 
-[@jedahan]: http://twitter.com/jedahan
+
 [jonathan]: mailto:jonathan@jedahan.com
+[ @jedahan ]: http://twitter.com/jedahan
 [jedahan.com]: http://jedahan.com
-[jonathan.is]: http://jonathan.is
-[github.com/jedahan]: http://github.com/jedahan.com
+[ jonathan.is ]: http://jonathan.is
+[ github.com/jedahan ]: http://github.com/jedahan.com
 
 [ Image_Categorizer ]: http://example.com
 [ Polyplayer Synth ]: http://example.com
