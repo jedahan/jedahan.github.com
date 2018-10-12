@@ -88,7 +88,7 @@ communities
 
 * [ NYC Resistor ][] member, teacher, where I built out [ Baculus ][], working on CNC milling/machining and repair.
 
-* ~~hacker school~~ [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+* ~~hacker school~~ [ recurse center ][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
 
 * [school for poetic computation][] student and teacher
   * programmed and painted a [piet][] program whose source is just a bitmap
@@ -180,7 +180,7 @@ education
 [ Micah Walter Studio ]: https://micahwalter.studio
 [ Small Data Industries ]: https://smalldata.industries
 
-[recurse center]: http://recurse.com
+[ recurse center ]: http://recurse.com
 [school for poetic computation]: http://sfpc.io
 [piet]: http://www.dangermouse.net/esoteric/piet.html
 [painting]: http://jonathan.is/echo-canvas
