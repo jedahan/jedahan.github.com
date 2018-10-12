@@ -5,7 +5,7 @@ layout: resume
 Jonathan Dahan
 ==============
 
- [jonathan][]@[jedahan.com][] | [ jonathan.is ][] | [ github.com/jedahan ][] | [ @jedahan ][]
+ [jonathan][]@[jedahan.com][] | [ jonathan.is ][] | [ github.com/jedahan ][] | [ twitter.com/jedahan ][]
 
 * Developer who enjoys recombining hardware to create new interactions, building web applications that connect people, improving communication through technology and experimenting with audiovisual art.
 
@@ -136,9 +136,9 @@ education
 
 
 [jonathan]: mailto:jonathan@jedahan.com
-[ @jedahan ]: http://twitter.com/jedahan
 [jedahan.com]: http://jedahan.com
 [ jonathan.is ]: http://jonathan.is
+[ twitter.com/jedahan ]: https://twitter.com/jedahan
 [ github.com/jedahan ]: http://github.com/jedahan.com
 
 [ Image_Categorizer ]: http://example.com
