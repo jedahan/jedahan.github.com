@@ -93,6 +93,7 @@ communities
   * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
   * made a collaborative light drawing robot out of an old pen plotter
 
+
 * Founded [ Island Labs ][] hackerspace, Fall 2008
 
 * President of the [ Linux Users Group at Stony Brook ][], 2008
