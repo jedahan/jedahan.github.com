@@ -23,6 +23,10 @@ work
 
      Full-stack software engineer working on graphql and traditional REST apis for mid-sized museums.
 
+ * __Researcher__ [ Recurse Center ][] | Spring 2018
+
+     Creating of [a programmable room] at Recurse Center. Developed computer vision and shared database tools for building interactivity in a physical space.
+
  * __Software Engineer__ [ Etsy ][] | Winter 2016 - Fall 2017
 
      Full-stack software engineer for Etsy.com payments team. Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api. Spedup VAT Invoice pdf generation by 40x. Implemented new state during emergency third party outage, allowing us to process over $30 million independently of the outage.
@@ -189,3 +193,4 @@ education
 
 [ jonathan.is ]: http://jonathan.is
 [ github.com/jedahan ]: https://github.com/jedahan
+[a programmable room]: https://github.com/living-room
