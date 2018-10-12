@@ -186,6 +186,7 @@ education
 [ Baculus ]: https://baculus.co
 [ NYC Resistor ]: https://nycresistor.org
 [ NYC Mesh ]: https://nycmesh.org
+[ Hackaday Superconference Badge CTF ]: https://hackaday.com/2016/11/16/solving-hackadays-crypto-challenge/#more-230676
 
 [ jonathan.is ]: http://jonathan.is
 [ github.com/jedahan ]: https://github.com/jedahan
