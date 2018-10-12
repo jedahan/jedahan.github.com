@@ -108,7 +108,7 @@ skills
 projects
 --------
 
- * __[ Hackaday Superconference Badge CTF ][]__ There were a bunch of puzzles on the conference badge and I managed to win the CTF!
+ * __[ Superconference CTF ][]__ There were a bunch of puzzles on the hackaday superconference badge and I managed to win the CTF!
 
  * __[ 0-Player Famicom ][]__ Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
 
