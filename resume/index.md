@@ -4,7 +4,7 @@ layout: resume
 
 # Jonathan Dahan
 
-> [hi][]@[jonathan.is][] | [jedahan.com][] | [github.com/jedahan][]
+> [hi][resume]@[jonathan.is][] | [jedahan.com][] | [github.com/jedahan][]
 
 - builds tools for developing, testing, and deploying web applications;
 - creates in-person interactives by networking hardware, software and phones;
