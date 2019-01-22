@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
-## hello internet
-Hello internet! If you are interested in my most recent work for Bard Graduate Center (programming old computers), check out [the symposium talk i gave](https://www.youtube.com/watch?v=N6lX-Gxo3uM), or [my latest blog post](/blog).
-
-## /hello internet
-
 a [hacker][me] of Computational Machinations, Digital Arts and Electronic Sounds, hailing from [Brooklyn][]
 
 I am a programmer who likes to connect random inputs and outputs to see what people will do with them. I often take virtual streams and provide them physical facilities to exaggerate their impact on our lives. I am equally uncomfortable coding in C, C++, Rust, Javascript, Coffeescript, Python, Piet, Basic, Hypercard, and Bash. I painted a simple [echo program][] and could very easily see myself holed up for the winter just with canvas and wine.
@@ -39,6 +34,7 @@ Endeavours
 - taught at the [school for poetic computation][]
 - founded [Island Labs][labs], a [long island][] [hackerspace][]
 - maintain an unofficial package repository for [exherbo][] linux
+- symposium [on programming old computers](https://www.youtube.com/watch?v=N6lX-Gxo3uM)
 
 Qualifications
 --------------
