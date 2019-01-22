@@ -13,7 +13,9 @@ work
 ----
  * __Founder__ [ Baculus ][] | Winter 2018
 
-     Developed hardware and software for self-repairing disaster recovery communications infrastructure. Built on top of scuttlebutt, IPV6 link-local addressing and offline-first webapps. Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
+     * Developed hardware and software for self-repairing disaster recovery communications infrastructure.
+     * Built offline-first web applications on top of scuttlebutt (js) over IPV6 link-local multicast.
+     * Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
 
  * __Technical Consultant__ [ Small Data Industries ][] | Winter 2017 -
 
