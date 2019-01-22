@@ -11,31 +11,41 @@ Jonathan Dahan
 
 work
 ----
- * __Founder__ [ Baculus ][] | Winter 2018
+
+__Founder__ of [ Baculus ][] | Winter 2018
 
      * Developed hardware and software for self-repairing disaster recovery communications infrastructure.
      * Built offline-first web applications on top of scuttlebutt (js) over IPV6 link-local multicast.
      * Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
 
- * __Technical Consultant__ [ Small Data Industries ][] | Winter 2017 -
+__Technical Consultant__ for [ Small Data Industries ][] | Winter 2017 -
 
-     Technical writer and advisor for Small Data Industries. Researched and developed preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer. Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format. Developed documentation and code for recreation of Cory Arcangel NES hardware hacks. Architected IPFS
+* Researched and developed preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer.
+* Architected IPFS-based private cloud storage solution for The Current Museum.
+* Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format.
+* Developed documentation and code for recreation of Cory Arcangel NES hardware hacks.
 
- * __Fullstack Engineer__ [ Micah Walter Studio ][] | Winter 2017 - Summer 2018
+__Fullstack Engineer__ for [ Micah Walter Studio ][] | Winter 2017 - Summer 2018
 
-     Full-stack software engineer working on graphql and traditional REST apis for mid-sized museums.
+* Built out graphql api for mid-sized museums, adapting REST ingestion api and website.
 
- * __Researcher__ [ Recurse Center ][] | Spring 2018
+__Researcher__ at [ Recurse Center ][] | Spring 2018
 
-     Creating of [a programmable room] at Recurse Center. Developed computer vision and shared database tools for building interactivity in a physical space.
+* Created [a programmable room][] at Recurse Center.
+* Developed computer vision and shared database tools for building interactivity in a physical space.
 
- * __Software Engineer__ [ Etsy ][] | Winter 2016 - Fall 2017
+__Software Engineer__ for [ Etsy ][] | Winter 2016 - Fall 2017
 
-     Full-stack software engineer for Etsy.com payments team. Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api. Spedup VAT Invoice pdf generation by 40x. Implemented new state during emergency third party outage, allowing us to process over $30 million independently of the outage.
+* Full-stack software engineer for Etsy.com payments team.
+* Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api.
+* Decreased VAT Invoice pdf generation by 40x.
+* Implemented new payments state machine processes during emergency third party outage, allowing us to process over $30 million independently of the outage.
 
- * __Rogue Developer__ [ Bard Graduate Center ][] | Winter 2014 - Spring 2015
+__Rogue Developer__ for [ Bard Graduate Center ][] | Winter 2014 - Spring 2015
 
-    Created interactives for five different platforms, illustrating the differences in HCI over 30 years. Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect. Installed in gallery to be up for 3 months, open to the public.
+* Created interactives for five different platforms, illustrating the differences in HCI over 30 years.
+* Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect.
+* Installed and ran in public gallery for 3 months.
 
  * __Adjunct Professor__ [ Parsons / The New School ][] | Fall 2014
 
