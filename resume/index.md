@@ -50,7 +50,8 @@ work
 
 ### Adjunct Professor at [Parsons / The New School][] | Fall 2014
 
-    Designed and taught a course for incoming design students on programming. We covered topics such as binary numbers, data structures, file manipulation, networking, servers, drawing and interaction using p5js, nodejs, and arduino.
+* Designed and taught a course for incoming design students on programming.
+* Covered binary numbers, data structures, file manipulation, networking, servers, drawing and interaction using p5js, nodejs, and arduino.
 
 ### Rogue Developer for [Lab@Rockwell][], [Fake Love][] | Winter 2014 - Summer 2015
 
