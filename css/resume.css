@@ -1,10 +1,1 @@
-span { font-size: 100%; }
-strong{ display:inline-block;}
-
-#skills + ul li strong{ width:95px; }
-#projects + ul li strong{ width:140px; }
-
-#work + ul li p:first-child { text-align:right; color:grey}
-#work + ul li p:first-child strong{ float:left; color:#333 }
-ul li p:last-child { padding-bottom: 14px }
-ul li p:before { content: ' '; }
+h3 { font-weight: normal }
