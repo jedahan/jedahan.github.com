@@ -147,7 +147,7 @@ education
  * Attended Computer Science program at Carnegie Melon University, 2005-2007
 
 
-[jonathan]: mailto:jonathan@jedahan.com
+[resume]: mailto:resume@jonathan.is
 [jedahan.com]: http://jedahan.com
 [jonathan.is]: http://jonathan.is
 [twitter.com/jedahan]: https://twitter.com/jedahan
