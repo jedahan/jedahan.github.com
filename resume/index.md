@@ -8,7 +8,7 @@ layout: resume
 
 - builds tools for developing, testing, and deploying web applications;
 - creates in-person interactives by networking hardware, software and phones;
-- designs and creates offline-first social networks for disaster recovery;
+- designs and creates decentralized and offline-first communications tools;
 
 work
 ====
@@ -16,7 +16,7 @@ work
 ### Founder of [Baculus][] | Winter 2018
 
 * Developed hardware and software for self-repairing disaster recovery communications infrastructure.
-* Built offline-first web applications on top of scuttlebutt (js) over IPV6 link-local multicast.
+* Built offline-first, decentralized web applications on top of scuttlebutt (js) over IPV6 link-local multicast.
 * Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
 
 ### Technical Consultant for [Small Data Industries][] | Winter 2017
