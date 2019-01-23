@@ -11,7 +11,7 @@ Some communities I'm a part of and love include [the school for poetic computati
 
 ## [Blog](/blog)
 
-{% for post in site.posts limit: 7 %}
+{% for post in site.posts limit: 5 %}
 - [{{post.title}}]({{post.url}})
 > {{ post.excerpt }}
 {% endfor %}
