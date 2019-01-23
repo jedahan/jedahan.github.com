@@ -9,13 +9,13 @@ I am a programmer who likes to connect random inputs and outputs to see what peo
 
 Some communities I'm a part of and love include [the school for poetic computation](sfpc.io), [hacker school](hackerschool.com), [arthackday](arthackday.net), [the medialab at the met](http://www.metmuseum.org/about-the-museum/museum-departments/office-of-the-director/digital-media-department/digital-underground/posts/2013/introducing-the-media-lab), [itp camp](http://itp.nyu.edu/camp2014/). If you are interested in chatting about any of these, please reach out!
 
-## [{{ site.posts[0].title }}]({{ site.posts[0].url}}) preview
-{{ site.posts[0].excerpt }}
+## [Blog](/blog)
 
-[read full article]({{ site.posts[0].url }}) or other from the [blog](/blog), like...
-{% for post in site.posts limit: 4 %}
-{% if post.url != site.posts[0].url %}- [{{post.title}}]({{post.url}}){% endif %}
+{% for post in site.posts limit: 7 %}
+- [{{post.title}}]({{post.url}})
+> {{ post.excerpt }}
 {% endfor %}
+- [...more posts](/blog)
 
 Creations and Consumptions
 --------------------------
