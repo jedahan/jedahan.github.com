@@ -6,62 +6,43 @@ layout: resume
 
 > ✉️ [hi][resume]@[jonathan.is][]  🕸 [jedahan.com][] ௮ [github.com/jedahan][]
 
-- builds tools for developing, testing, and deploying web applications;
-- creates in-person interactives by networking hardware, software and phones;
-- designs and creates decentralized and offline-first communications tools;
-
 work
 ====
 
-### Founder of [Baculus][] | Winter 2018
+### Founder of [Baculus][] | Winter [DATES in Months] 2018
 
-* Developed hardware and software for self-repairing disaster recovery communications infrastructure.
-* Built offline-first, decentralized web applications on top of scuttlebutt (js) over IPV6 link-local multicast.
-* Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
+* Developed hardware and software for disaster recovery communications infrastructure
+* Built offline-first, decentralized web applications on top of scuttlebutt (js) over IPV6 link-local multicast
+* Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant
 
-### Technical Consultant for [Small Data Industries][] | Winter 2017
+### Technical Consultant for [Small Data Industries][] | Winter [DATES in Months]  2017
 
 * Researched and developed preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer.
 * Architected IPFS-based private cloud storage solution for The Current Museum.
 * Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format.
 * Developed documentation and code for recreation of Cory Arcangel NES hardware hacks.
 
-### Fullstack Engineer for [Micah Walter Studio][] | Winter 2017 - Summer 2018
+### Fullstack Freelance Engineer for [Micah Walter Studio][] | Winter 2017[DATES in Months] - Summer[DATES in Months] 2018
 
 * Built out graphql api for mid-sized museums, adapting REST ingestion api and website.
 
-### Researcher at [Recurse Center][] | Spring 2018
+### Software Engineer for [Etsy][] | Winter [DATES in Months]  2016 - Fall [DATES in Months]  2017
 
-* Created [a programmable room][] at Recurse Center.
-* Developed computer vision and shared database tools for building interactivity in a physical space.
-
-### Software Engineer for [Etsy][] | Winter 2016 - Fall 2017
-
-* Full-stack software engineer for Etsy.com payments team.
 * Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api.
 * Decreased VAT Invoice pdf generation by 40x.
 * Implemented new payments state machine processes during emergency third party outage, allowing us to process over $30 million independently of the outage.
 
-### Rogue Developer for [Bard Graduate Center][] | Winter 2014 - Spring 2015
+### Freelance Developer for [Bard Graduate Center][] | Winter[DATES in Months]  2014 - Spring[DATES in Months]  2015
 
 * Created interactives for five different platforms, illustrating the differences in HCI over 30 years.
 * Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect.
 * Installed and ran in public gallery for 3 months.
 
-### Adjunct Professor at [Parsons / The New School][] | Fall 2014
-
-* Designed and taught a course for incoming design students on programming.
-* Covered binary numbers, data structures, file manipulation, networking, servers, drawing and interaction using p5js, nodejs, and arduino.
-
-### Rogue Developer for [Lab@Rockwell][], [Fake Love][] | Winter 2014 - Summer 2015
+### Freelance Developer for [Lab@Rockwell][], [Fake Love][] | Winter[DATES in Months]  2014 - Summer[DATES in Months]  2015
 
 * Built canvas-based frontend for malls to create digital signage for lab@rockwell. For fakelove, created backend api and email generation and queueing system to reach out to any person who interacted with an iPad frontend.
 
-### Teacher at [school for poetic computation][] | Spring 2013, 2014
-
-* Taught classes on the raspberry pi, networking, apis, the commandline, and glitch art.
-
-### Media Technology Developer at [Metropolitan Museum of Art][] | Spring 2012 - Summer 2014
+### Media Technology Developer at [Metropolitan Museum of Art][] | Spring [DATES in Months] 2012 - Summer [DATES in Months]  2014
 
 * Developed web-based virtual touchbooks and twitter in-gallery interactives.
 * Built collections api in node.js for external use (see Iconoclashes).
@@ -70,28 +51,15 @@ work
 * Worked with bluetooth beacons for wayfinding in galleries.
 * Developed open source image recognition software.
 
-### Bit Wizard for [Bug Labs][] | Spring 2011 - Fall 2011
+### Bit Wizard for [Bug Labs][] | Spring [DATES in Months] 2011 - Fall [DATES in Months] 2011
 
-* Created getting started guide and tutorial application using jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
-* Write CoffeeScript/Mocha BDD tests for javascript libraries that interface with custom messaging platform.
+* Created getting started guide and tutorial application using Jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
+* Write CoffeeScript/Mocha BDD tests for JavaScript libraries that interface with custom messaging platform.
 * Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
 
+### Web Developer at [Cold Spring Harbor Labs][] | Fall [DATES in Months] 2010-2011
 
-### Web Developer at [Cold Spring Harbor Labs][] | Fall 2010-2011
-
-* Redesign and implement ruby-on-rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
-
-### Cluster Sysadmin at [SUNY Stonybrook Research Foundation][] | 2007-2011
-
-* Maintain three debian-based, netbooting supercomputing clusters with a team of administrators.
-
-### Web Developer for [Chyron][] | Summer 2008
-
-* QA test Flash / ActionScript 3 broadcast weather system, speeding up time-to-market for broadcast partners.
-
-### Developer at [Nu Horizons][] | Summers 2003-2005
-
-* Create and maintain ASP/MSSQL parametric search systems, quiz software and parts order forms, helping keep salesman knowledge up-to-date and correct.
+* Redesign and implement Ruby-on-Rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
 
 communities
 ===========
@@ -100,13 +68,17 @@ communities
 
 * [NYC Resistor][] member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
 
-* ~~hacker school~~ [recurse center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+* [Recurse Center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
+ [ADD THIS AS A BULLET POINT HERE]### Researcher at [Recurse Center][] | Spring [DATES in Months] 2018
 
-* [school for poetic computation][] student and teacher
+* Created [a programmable room][] at Recurse Center.
+* Developed computer vision and shared database tools for building interactivity in a physical space.
+
+
+* [School for Poetic Computation][] student and teacher
   * programmed and painted a [piet][] program whose source is just a bitmap
   * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
   * made a collaborative light drawing robot out of an old pen plotter
-
 
 * Founded [Island Labs][] hackerspace
 
@@ -135,11 +107,6 @@ projects
  * __[Exherbo Linux][]__ Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
 
  * __[AMD at HOPE][]__ Built API to access live position tracking of thousands of attendees of a three-day conference, enabling developers to create games on the platform
-
-events
-------
-
- * [Our Networks][], [Radical Networks][], [Hackaday Superconference][], [Museum Computer Network][], [EyeO Festival][], [Museums and the Web][], [MLG Providence][], [Chaos Communications Camp][], [The Last Hope][], [The Next Hope][]
 
 education
 ---------
