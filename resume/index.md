@@ -6,6 +6,8 @@ layout: resume
 
 > ✉️ [hi][resume]@[jonathan.is][]  🕸 [jedahan.com][] ௮ [github.com/jedahan][]
 
+## work
+
 ### Founder of [Baculus][] | August 2018
 
 * Developed hardware and software for disaster recovery communications infrastructure.
@@ -60,45 +62,32 @@ layout: resume
 
 * Redesign and implement Ruby-on-Rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
 
-communities
-===========
+## communities
 
-* [NYC Mesh][] member, node operator, developer, working on security documentation, outreach and installs.
+|                                    |                                                                                                   |
+------------------------------------:|---------------------------------------------------------------------------------------------------|
+[NYC Mesh][]                         | member, node operator, developer, working on security documentation, outreach and installs.
+[NYC Resistor][]                     | member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
+[Recurse Center][]                   | Created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
+[Recurse Center][]                   | Researcher, where I built [a programmable room][], creating tools for building interactivity in a physical space. Created C/C++/openFrameworks computer vision tools, and a node.js db/event queue to allow others to contribute new sensors and visualizers.
+[School for Poetic Computation][]    | Programmed and painted a [piet][] program whose source code is just a bitmap. Built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network. Made a collaborative light drawing robot out of an old pen plotter
+[Island Labs][]                      | Founded and ran hackerspace for three years
+[Linux Users Group at Stony Brook][] | Presided for two years
 
-* [NYC Resistor][] member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
+## projects
 
-* [Recurse Center][] participant, where I created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
+|                     |                                 |
+|--------------------:|---------------------------------|
+[Badge CTF][]         | There were a bunch of puzzles on the hackaday superconference badge and I managed to win the CTF!
+[0-Player Famicom][]  | Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
+[BadgeAssassin][]     | Built a game of [assassin][BadgeAssassin] at [CCC][Chaos Communications Camp] using the [camp badges][r0ket] as local radar. Confused all nonparticipants.
+[Polyplayer Synth][]  | Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
+[Space Balloon][]     | Photography of the tri-state area and captured the curvature of the earth from 34,000m with over-the-shelf hardware
+[Exherbo Linux][]     | Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
+[AMD at HOPE][]       | Built API to access live position tracking of thousands of attendees of a three-day conference, enabling developers to create games on the platform
 
-* [Recurse Center][] researcher, where I created [a programmable room][], creating tools for building interactivity in a physical space. Created C/C++/openFrameworks computer vision tools, and a node.js db/event queue to allow others to contribute new sensors and visualizers.
+## education
 
-* [School for Poetic Computation][] student and teacher
-  * programmed and painted a [piet][] program whose source is just a bitmap
-  * built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network
-  * made a collaborative light drawing robot out of an old pen plotter
-
-* Founded [Island Labs][] hackerspace
-
-* Presided over the [Linux Users Group at Stony Brook][]
-
-projects
-========
-
- * __[Badge CTF][]__ There were a bunch of puzzles on the hackaday superconference badge and I managed to win the CTF!
-
- * __[0-Player Famicom][]__ Figured out how to do automagic playback of speedruns on an unmodified famicom/NES using an arduino. Working on sniffing the data and address busses for cart identification using a Beaglebone Black.
-
- * __[BadgeAssassin][]__ Built a game of [assassin][BadgeAssassin] at [CCC][Chaos Communications Camp] using the [camp badges][r0ket] as local radar. Confused all nonparticipants.
-
- * __[Polyplayer Synth][]__ Creation of multi-person network/phone-controlled motors and relays using OSC and arduinos
-
- * __[Space Balloon][]__ Photography of the tri-state area and captured the curvature of the earth from 34,000m with over-the-shelf hardware
-
- * __[Exherbo Linux][]__ Packaging around 100 applications for the exherbo linux distribution, contributing to user documentation
-
- * __[AMD at HOPE][]__ Built API to access live position tracking of thousands of attendees of a three-day conference, enabling developers to create games on the platform
-
-education
----------
  * Bachelors of Computer Science / Digital Arts from Stony Brook University, Fall 2010
  * Attended Computer Science program at Carnegie Melon University, 2005-2007
 
