@@ -15,3 +15,7 @@ ul {
 thead {
   display: none;
 }
+
+@media print {
+  #communities { break-before: page; }
+}
