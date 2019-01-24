@@ -6,58 +6,57 @@ layout: resume
 
 > ✉️ [hi][resume]@[jonathan.is][]  🕸 [jedahan.com][] ௮ [github.com/jedahan][]
 
-work
-====
+### Founder of [Baculus][] | August 2018
 
-### Founder of [Baculus][] | Winter [DATES in Months] 2018
+* Developed hardware and software for disaster recovery communications infrastructure.
+* Built offline-first, decentralized web applications on top of scuttlebutt (js/nodejs) over IPV6 link-local multicast.
+* Wrote custom wireshark dissector in lua for investigating mdns advertisements.
+* Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant.
 
-* Developed hardware and software for disaster recovery communications infrastructure
-* Built offline-first, decentralized web applications on top of scuttlebutt (js) over IPV6 link-local multicast
-* Managed designers and programmers for a short sprint, winning a Mozilla/NSF phase I grant
-
-### Technical Consultant for [Small Data Industries][] | Winter [DATES in Months]  2017
+### Technical Consultant for [Small Data Industries][] | October 2018
 
 * Researched and developed preservation strategies for unique hardware such as the IBM Leapfrog and NeXT Computer.
 * Architected IPFS-based private cloud storage solution for The Current Museum.
 * Wrote GIF case study for the MoMI to highlight the historical decision-making involved in the creation of the GIF file format.
-* Developed documentation and code for recreation of Cory Arcangel NES hardware hacks.
+* Developed documentation and code (C/lua) for recreation of Cory Arcangel NES hardware hacks.
 
-### Fullstack Freelance Engineer for [Micah Walter Studio][] | Winter 2017[DATES in Months] - Summer[DATES in Months] 2018
+### Fullstack Freelance Engineer for [Micah Walter Studio][] | September 2017 - June 2018
 
-* Built out graphql api for mid-sized museums, adapting REST ingestion api and website.
+* Built out node.js-based graphql api for mid-sized museums, adapting REST ingestion api and website.
 
-### Software Engineer for [Etsy][] | Winter [DATES in Months]  2016 - Fall [DATES in Months]  2017
+### Software Engineer for [Etsy][] | December 2015 - August 2017
 
 * Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api.
 * Decreased VAT Invoice pdf generation by 40x.
 * Implemented new payments state machine processes during emergency third party outage, allowing us to process over $30 million independently of the outage.
 
-### Freelance Developer for [Bard Graduate Center][] | Winter[DATES in Months]  2014 - Spring[DATES in Months]  2015
+### Freelance Developer for [Bard Graduate Center][] | September 2014 - July 2015
 
 * Created interactives for five different platforms, illustrating the differences in HCI over 30 years.
 * Wrote BASIC for the Commodore 64, HyperTalk for the Mac Plus, native C for the Palm Pilot Professional, javascript/canvas for iOS, and C++/openFrameworks for the kinect.
 * Installed and ran in public gallery for 3 months.
 
-### Freelance Developer for [Lab@Rockwell][], [Fake Love][] | Winter[DATES in Months]  2014 - Summer[DATES in Months]  2015
+### Freelance Developer for [Lab@Rockwell][], [Fake Love][] | October 2013 - October 2014
 
-* Built canvas-based frontend for malls to create digital signage for lab@rockwell. For fakelove, created backend api and email generation and queueing system to reach out to any person who interacted with an iPad frontend.
+* Built html canvas-based frontend for malls to create digital signage for lab@rockwell.
+* Created backend api and email generation and queueing system to reach out to any person who interacted with an iPad openframeworks application.
 
-### Media Technology Developer at [Metropolitan Museum of Art][] | Spring [DATES in Months] 2012 - Summer [DATES in Months]  2014
+### Media Technology Developer at [Metropolitan Museum of Art][] | February 2012 - August 2014
 
 * Developed web-based virtual touchbooks and twitter in-gallery interactives.
 * Built collections api in node.js for external use (see Iconoclashes).
 * Managed 3D hackathon with two dozen artists.
-* Setup projector visualisations for LIARS concert in the temple of dendur.
+* Setup projector visualisations for LIARS concert in the temple of dendur built on openFrameworks/C++.
 * Worked with bluetooth beacons for wayfinding in galleries.
-* Developed open source image recognition software.
+* Developed open source image recognition software in javascript.
 
-### Bit Wizard for [Bug Labs][] | Spring [DATES in Months] 2011 - Fall [DATES in Months] 2011
+### Bit Wizard for [Bug Labs][] | February 2011 - March 2012
 
 * Created getting started guide and tutorial application using Jade, LESS and CoffeeScript for the BUG hardware prototyping platform, making it easier for new developers to quickly understand the components of the stack.
 * Write CoffeeScript/Mocha BDD tests for JavaScript libraries that interface with custom messaging platform.
 * Create tutorial and sample web applications using jQuery and Arduino to help new developer ramp-up.
 
-### Web Developer at [Cold Spring Harbor Labs][] | Fall [DATES in Months] 2010-2011
+### Web Developer at [Cold Spring Harbor Labs][] | September 2010 - March 2011
 
 * Redesign and implement Ruby-on-Rails laboratory information management system for experimental pipeline, helping speed up data entry and retreival.
 
@@ -68,12 +67,9 @@ communities
 
 * [NYC Resistor][] member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
 
-* [Recurse Center][] participant, where I created a custom NES/famicom controller that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers.
- [ADD THIS AS A BULLET POINT HERE]### Researcher at [Recurse Center][] | Spring [DATES in Months] 2018
+* [Recurse Center][] participant, where I created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
 
-* Created [a programmable room][] at Recurse Center.
-* Developed computer vision and shared database tools for building interactivity in a physical space.
-
+* [Recurse Center][] researcher, where I created [a programmable room][], creating tools for building interactivity in a physical space. Created C/C++/openFrameworks computer vision tools, and a node.js db/event queue to allow others to contribute new sensors and visualizers.
 
 * [School for Poetic Computation][] student and teacher
   * programmed and painted a [piet][] program whose source is just a bitmap
@@ -83,13 +79,6 @@ communities
 * Founded [Island Labs][] hackerspace
 
 * Presided over the [Linux Users Group at Stony Brook][]
-
-skills
-======
-
- * __languages__ Rust, JavaScript, Shell, Java, C++/OpenFrameworks, C, HTML+CSS, Ruby, Python
- * __software__ Linux Administration, Docker, Arduino, Processing, OSC, MIDI, git
- * __hardware__ Raspberry Pi, Arduino, Android, Beaglebone Black, NES/Famicom
 
 projects
 ========
@@ -112,7 +101,6 @@ education
 ---------
  * Bachelors of Computer Science / Digital Arts from Stony Brook University, Fall 2010
  * Attended Computer Science program at Carnegie Melon University, 2005-2007
-
 
 [resume]: mailto:resume@jonathan.is
 [jedahan.com]: http://jedahan.com
