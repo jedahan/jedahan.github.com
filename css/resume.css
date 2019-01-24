@@ -1,6 +1,13 @@
-h3 { font-weight: normal }
+h3 {
+  font-weight: normal;
+  margin: 0;
+}
 
 td {
   padding-right: 1em;
   padding-top: 0.4em;
+}
+
+ul {
+  margin-top: 0;
 }

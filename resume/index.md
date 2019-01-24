@@ -28,7 +28,7 @@ layout: resume
 
 ### Software Engineer for [Etsy][] | December 2015 - August 2017
 
-* Worked on international tax compliance for expanding to new markets, improving the payment processor state machine and api.
+* Worked on international tax compliance new market expansion, improving the payment processor state machine & api.
 * Decreased VAT Invoice pdf generation by 40x.
 * Implemented new payments state machine processes during emergency third party outage, allowing us to process over $30 million independently of the outage.
 
