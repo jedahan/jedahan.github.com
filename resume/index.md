@@ -83,7 +83,7 @@ layout: resume
 #### [Island Labs][]
 * Founded and ran hackerspace for three years
 
-### [Linux Users Group at Stony Brook][]
+#### [Linux Users Group at Stony Brook][]
 * Presided over two years
 
 ## projects
