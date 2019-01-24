@@ -64,14 +64,24 @@ layout: resume
 
 ## communities
 
-|                                    |                                                                                                   |
-------------------------------------:|---------------------------------------------------------------------------------------------------|
-[NYC Mesh][]                         | member, node operator, developer, working on security documentation, outreach and installs.
-[NYC Resistor][]                     | member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
-[Recurse Center][]                   | Created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
-[Recurse Center][]                   | Researcher, where I built [a programmable room][], creating tools for building interactivity in a physical space. Created C/C++/openFrameworks computer vision tools, and a node.js db/event queue to allow others to contribute new sensors and visualizers.
-[School for Poetic Computation][]    | Programmed and painted a [piet][] program whose source code is just a bitmap. Built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network. Made a collaborative light drawing robot out of an old pen plotter
-[Island Labs][]                      | Founded and ran hackerspace for three years
+#### [NYC Mesh][]
+* member, node operator, developer, working on security documentation, outreach and installs.
+
+#### [NYC Resistor][]
+* member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
+
+#### [Recurse Center][]
+* Created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
+
+#### [Recurse Center][]
+* Researcher, where I built [a programmable room][], creating tools for building interactivity in a physical space.
+* Built C/C++/openFrameworks computer vision tools, and a node.js db/event queue to allow others to contribute new sensors and visualizers.
+
+#### [School for Poetic Computation][]
+* Programmed and painted a [piet][] program whose source code is just a bitmap. Built a [network sonifier][] to make it easier to understand what is going on with your machine and the rest of a local network. Made a collaborative light drawing robot out of an old pen plotter
+
+#### [Island Labs][]
+* Founded and ran hackerspace for three years
 [Linux Users Group at Stony Brook][] | Presided for two years
 
 ## projects
