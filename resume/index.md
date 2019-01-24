@@ -65,13 +65,13 @@ layout: resume
 ## communities
 
 #### [NYC Mesh][]
-* member, node operator, developer, working on security documentation, outreach and installs.
+* Member, node operator, developer, working on security documentation, outreach and installs.
 
 #### [NYC Resistor][]
-* member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
+* Member, teacher, where I built out [Baculus][], working on CNC milling/machining and repair.
 
 #### [Recurse Center][]
-* Created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
+* Participant. Created a custom NES/famicom controller (in C and arduino) that could playback emulator speedruns on real hardware, build the basics of a blockchain client in rust, and learned a bit about networking layers with an online MOOC.
 
 #### [Recurse Center][]
 * Researcher, where I built [a programmable room][], creating tools for building interactivity in a physical space.
@@ -82,7 +82,9 @@ layout: resume
 
 #### [Island Labs][]
 * Founded and ran hackerspace for three years
-[Linux Users Group at Stony Brook][] | Presided for two years
+
+### [Linux Users Group at Stony Brook][]
+* Presided over two years
 
 ## projects
 
