@@ -1,3 +1,7 @@
+---
+layout: none
+permalink: .well-known/apple-developer-merchantid-domain-association.txt
+---
 MIIP2AYJKoZIhvcNAQcCoIIPyTCCD8UCAQExCzAJBgUrDgMCGgUAMG0GCSqGSIb3DQEHAaBgBF57
 InRlYW1JZCI6IlY5SDlTUkFEUTQiLCJkb21haW4iOiJqZWRhaGFuLmNvbSIsImRhdGVDcmVhdGVk
 IjoiMjAyMS0wMy0yNCwxNjozNTo0NyIsInZlcnNpb24iOjF9oIIMsjCCA_MwggLboAMCAQICARcw
