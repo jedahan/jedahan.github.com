@@ -8,17 +8,12 @@ layout: resume
 
 ## work
 
-
 ### Fullstack Engineer at [Reaktor][] | September 2019
 
 * Developed cross-platform React Native app and Typescript GraphQL backend api for Sony Music Artists to track their performance on streaming music platforms.
-
 * Integrated third-party streaming audio service into React Native app for Equinox running classes
-
 * Researched and wrote technical proposal for Equinox's remote training program
-
 * Developed backend data pipeline for realtime East River water quality dashboard at https://water.pluspool.org
-
 
 ### Founder of [Baculus][] | August 2018
 
