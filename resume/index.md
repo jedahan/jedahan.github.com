@@ -146,6 +146,7 @@ layout: resume
 
 [http://github.com/jedahan]: http://github.com/jedahan
 
+[Reaktor]: https://reaktor.com
 [Etsy]: https://etsy.com
 [BUG Labs]: http://buglabs.net
 [Cold Spring Harbor Labs]: http://www.cshl.edu
