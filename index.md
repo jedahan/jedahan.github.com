@@ -40,6 +40,7 @@ Endeavours
 
 <div style="display: none;">
   <p>This is for <a href="https://indieauth.com">IndieAuth</a> support.</p>
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth">
   <a rel='me' href="https://github.com/jedahan">github</a>
 </div>
 

@@ -3,7 +3,7 @@ layout: post
 title: Software values
 ---
 
-> Copy-pasted from a response in work slack channel regarding a project that ripped out all the io-ts and fp-ts code after our company built the initial version.
+Copy-pasted from a response in work slack channel regarding a project that ripped out all the io-ts and fp-ts code after our company built the initial version.
 
 ---
 
